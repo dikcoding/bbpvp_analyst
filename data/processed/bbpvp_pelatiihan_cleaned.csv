@@ -1,0 +1,1001 @@
+participant_id,nama_peserta,jenis_pelatihan,durasi_pelatihan,kehadiran (%),nilai_ujian,status_kelulusan,produktivitas_setelah_pelatihan,tanggal_mulai,tanggal_selesai,lama_pelatihan_hari,tahun,bulan
+PART-00001,"Marsito Winarsih, M.Kom.",Pertanian,240,96,92,Lulus,84,2024-09-06,2024-10-06,31,2024,September
+PART-00002,Fitriani Lazuardi,Tataboga,80,93,74,Lulus,82,2024-05-25,2024-06-04,11,2024,May
+PART-00003,"drg. Elisa Rajata, M.Pd",Desain Grafis,200,70,83,Tidak Lulus,65,2024-09-26,2024-10-21,26,2024,September
+PART-00004,Aisyah Wibowo,Teknologi Informasi,160,100,51,Tidak Lulus,70,2024-02-27,2024-03-18,21,2024,February
+PART-00005,Drs. Cinta Situmorang,Konstruksi,40,78,81,Tidak Lulus,60,2025-06-05,2025-06-10,6,2025,June
+PART-00006,"Dr. Lantar Nasyiah, S.Psi",Pariwisata,40,79,67,Tidak Lulus,67,2024-04-10,2024-04-15,6,2024,April
+PART-00007,Darmana Permadi,Pariwisata,200,75,81,Tidak Lulus,68,2024-03-27,2024-04-21,26,2024,March
+PART-00008,Qori Widiastuti,Pariwisata,80,78,78,Tidak Lulus,61,2025-08-10,2025-08-20,11,2025,August
+PART-00009,"Yosef Hartati, S.E.",Kesehatan,40,90,83,Lulus,85,2025-06-05,2025-06-10,6,2025,June
+PART-00010,Drs. Naradi Pratiwi,Tataboga,120,78,81,Tidak Lulus,72,2025-09-27,2025-10-12,16,2025,September
+PART-00011,Ani Suwarno,Pertanian,240,96,78,Lulus,90,2024-04-20,2024-05-20,31,2024,April
+PART-00012,Rosman Halim,Manufaktur,80,74,91,Tidak Lulus,73,2024-05-02,2024-05-12,11,2024,May
+PART-00013,Siti Hutapea,Pariwisata,240,93,75,Lulus,79,2025-07-26,2025-08-25,31,2025,July
+PART-00014,Estiawan Nainggolan,Pertanian,40,100,83,Lulus,80,2025-03-18,2025-03-23,6,2025,March
+PART-00015,Jati Salahudin,Teknologi Informasi,160,98,87,Lulus,100,2024-11-15,2024-12-05,21,2024,November
+PART-00016,Zahra Simbolon,Pertanian,120,95,48,Tidak Lulus,74,2024-09-30,2024-10-15,16,2024,September
+PART-00017,Oni Astuti,Kesehatan,120,93,74,Lulus,97,2024-06-22,2024-07-07,16,2024,June
+PART-00018,Usyi Iswahyudi,Manufaktur,40,94,77,Lulus,99,2024-08-12,2024-08-17,6,2024,August
+PART-00019,Dina Wacana,Konstruksi,240,82,96,Lulus,84,2025-04-10,2025-05-10,31,2025,April
+PART-00020,"Queen Pudjiastuti, M.Pd",Teknologi Informasi,240,87,61,Tidak Lulus,51,2025-10-03,2025-11-02,31,2025,October
+PART-00021,Danu Mayasari,Manufaktur,200,80,51,Tidak Lulus,53,2025-05-05,2025-05-30,26,2025,May
+PART-00022,Bella Permadi,Pariwisata,240,93,84,Lulus,94,2024-04-11,2024-05-11,31,2024,April
+PART-00023,R. Farah Habibi,Tataboga,40,94,86,Lulus,88,2025-08-23,2025-08-28,6,2025,August
+PART-00024,Prasetya Setiawan,Pariwisata,120,97,93,Lulus,81,2025-03-08,2025-03-23,16,2025,March
+PART-00025,"Gaduh Oktaviani, M.Pd",Konstruksi,240,99,51,Tidak Lulus,53,2024-05-16,2024-06-15,31,2024,May
+PART-00026,"Himawan Irawan, S.E.",Desain Grafis,40,99,55,Tidak Lulus,51,2025-01-06,2025-01-11,6,2025,January
+PART-00027,"Hj. Intan Megantara, M.TI.",Konstruksi,160,91,92,Lulus,86,2024-11-09,2024-11-29,21,2024,November
+PART-00028,Salimah Pradipta,Manufaktur,160,84,69,Tidak Lulus,67,2025-01-18,2025-02-07,21,2025,January
+PART-00029,"Ir. Talia Adriansyah, S.I.Kom",Kesehatan,240,91,51,Tidak Lulus,59,2024-04-08,2024-05-08,31,2024,April
+PART-00030,R.M. Among Rahayu,Pertanian,160,76,58,Tidak Lulus,52,2024-03-23,2024-04-12,21,2024,March
+PART-00031,Nrima Firmansyah,Desain Grafis,200,71,79,Tidak Lulus,72,2025-06-22,2025-07-17,26,2025,June
+PART-00032,drg. Usyi Wibisono,Kesehatan,200,93,51,Tidak Lulus,62,2024-10-29,2024-11-23,26,2024,October
+PART-00033,"Ir. Cemeti Sitompul, S.Farm",Manufaktur,160,87,78,Lulus,79,2024-10-18,2024-11-07,21,2024,October
+PART-00034,"dr. Bakijan Ardianto, S.Sos",Konstruksi,120,83,58,Tidak Lulus,71,2024-12-10,2024-12-25,16,2024,December
+PART-00035,Rusman Agustina,Manufaktur,240,77,51,Tidak Lulus,53,2025-07-07,2025-08-06,31,2025,July
+PART-00036,"Hj. Vivi Prasetyo, S.Psi",Pariwisata,120,89,48,Tidak Lulus,52,2024-10-06,2024-10-21,16,2024,October
+PART-00037,Humaira Novitasari,Manufaktur,160,91,63,Tidak Lulus,54,2024-04-03,2024-04-23,21,2024,April
+PART-00038,Mala Budiman,Kesehatan,240,87,45,Tidak Lulus,54,2025-03-25,2025-04-24,31,2025,March
+PART-00039,R.M. Marwata Dabukke,Konstruksi,80,83,84,Lulus,76,2024-10-30,2024-11-09,11,2024,October
+PART-00040,Vera Nasyidah,Kesehatan,240,90,48,Tidak Lulus,50,2025-08-13,2025-09-12,31,2025,August
+PART-00041,Hj. Ratna Sitorus,Desain Grafis,160,96,53,Tidak Lulus,68,2024-10-16,2024-11-05,21,2024,October
+PART-00042,Oman Dongoran,Desain Grafis,120,90,97,Lulus,98,2025-10-27,2025-11-11,16,2025,October
+PART-00043,"Daliman Gunarto, M.M.",Desain Grafis,120,92,98,Lulus,100,2025-09-12,2025-09-27,16,2025,September
+PART-00044,Icha Aryani,Konstruksi,200,73,61,Tidak Lulus,52,2024-08-26,2024-09-20,26,2024,August
+PART-00045,Yusuf Hassanah,Kesehatan,240,100,84,Lulus,78,2023-11-13,2023-12-13,31,2023,November
+PART-00046,Jati Mustofa,Kesehatan,240,88,88,Lulus,82,2024-09-12,2024-10-12,31,2024,September
+PART-00047,Novi Wijaya,Tataboga,40,89,62,Tidak Lulus,70,2025-10-08,2025-10-13,6,2025,October
+PART-00048,"Oskar Permata, S.Pt",Desain Grafis,120,77,57,Tidak Lulus,61,2023-12-06,2023-12-21,16,2023,December
+PART-00049,Ir. Vero Suryono,Tataboga,120,93,55,Tidak Lulus,60,2024-01-29,2024-02-13,16,2024,January
+PART-00050,"Ina Natsir, M.TI.",Teknologi Informasi,40,82,79,Lulus,82,2023-12-13,2023-12-18,6,2023,December
+PART-00051,Violet Puspasari,Pariwisata,160,73,77,Tidak Lulus,62,2024-07-24,2024-08-13,21,2024,July
+PART-00052,"Olivia Rajasa, M.TI.",Teknologi Informasi,240,90,45,Tidak Lulus,54,2023-12-21,2024-01-20,31,2023,December
+PART-00053,Joko Mansur,Konstruksi,160,87,97,Lulus,83,2025-04-01,2025-04-21,21,2025,April
+PART-00054,"Iriana Maryadi, M.TI.",Tataboga,200,92,88,Lulus,92,2023-12-10,2024-01-04,26,2023,December
+PART-00055,Marsito Suryatmi,Desain Grafis,200,77,87,Tidak Lulus,60,2023-12-16,2024-01-10,26,2023,December
+PART-00056,Nurul Suwarno,Manufaktur,40,93,59,Tidak Lulus,66,2025-01-29,2025-02-03,6,2025,January
+PART-00057,KH. Nyoman Latupono,Pertanian,160,95,58,Tidak Lulus,52,2023-12-03,2023-12-23,21,2023,December
+PART-00058,Puti Clara Thamrin,Manufaktur,40,71,93,Tidak Lulus,54,2025-06-21,2025-06-26,6,2025,June
+PART-00059,Vivi Siregar,Tataboga,80,92,92,Lulus,87,2025-06-13,2025-06-23,11,2025,June
+PART-00060,"Ratih Megantara, M.TI.",Tataboga,160,89,82,Lulus,75,2024-11-01,2024-11-21,21,2024,November
+PART-00061,Jumadi Nasyiah,Kesehatan,200,72,53,Tidak Lulus,62,2024-10-10,2024-11-04,26,2024,October
+PART-00062,"Dt. Among Puspita, S.IP",Manufaktur,200,80,71,Lulus,94,2025-01-14,2025-02-08,26,2025,January
+PART-00063,Aris Hardiansyah,Pariwisata,240,79,77,Tidak Lulus,50,2025-10-15,2025-11-14,31,2025,October
+PART-00064,Lidya Lailasari,Kesehatan,200,74,75,Tidak Lulus,52,2024-01-29,2024-02-23,26,2024,January
+PART-00065,Nasim Sitorus,Manufaktur,160,90,69,Tidak Lulus,55,2024-06-12,2024-07-02,21,2024,June
+PART-00066,"Pranawa Mangunsong, S.Pt",Pariwisata,240,93,82,Lulus,81,2025-10-21,2025-11-20,31,2025,October
+PART-00067,R.M. Garan Hastuti,Teknologi Informasi,240,72,77,Tidak Lulus,52,2025-08-25,2025-09-24,31,2025,August
+PART-00068,Hasna Rahmawati,Teknologi Informasi,80,99,76,Lulus,83,2024-04-02,2024-04-12,11,2024,April
+PART-00069,KH. Darmana Usada,Desain Grafis,200,89,68,Tidak Lulus,56,2024-10-24,2024-11-18,26,2024,October
+PART-00070,"Ivan Jailani, S.E.I",Desain Grafis,40,83,55,Tidak Lulus,52,2024-07-29,2024-08-03,6,2024,July
+PART-00071,Amalia Santoso,Manufaktur,120,87,77,Lulus,82,2024-12-21,2025-01-05,16,2024,December
+PART-00072,Dr. Kuncara Sitompul,Konstruksi,160,85,87,Lulus,86,2024-10-14,2024-11-03,21,2024,October
+PART-00073,Drs. Oskar Hasanah,Kesehatan,200,72,72,Tidak Lulus,58,2024-11-22,2024-12-17,26,2024,November
+PART-00074,Daru Januar,Manufaktur,40,95,74,Lulus,92,2024-06-10,2024-06-15,6,2024,June
+PART-00075,"Putri Hartati, S.T.",Tataboga,240,94,94,Lulus,86,2025-03-24,2025-04-23,31,2025,March
+PART-00076,Pangestu Astuti,Pertanian,160,89,56,Tidak Lulus,66,2024-11-16,2024-12-06,21,2024,November
+PART-00077,Ajimat Hutagalung,Pariwisata,80,97,46,Tidak Lulus,67,2024-11-19,2024-11-29,11,2024,November
+PART-00078,Limar Rajasa,Desain Grafis,160,77,65,Tidak Lulus,65,2024-11-03,2024-11-23,21,2024,November
+PART-00079,Lili Melani,Tataboga,160,78,85,Tidak Lulus,50,2025-02-08,2025-02-28,21,2025,February
+PART-00080,Belinda Utami,Manufaktur,80,88,79,Lulus,75,2023-11-16,2023-11-26,11,2023,November
+PART-00081,Wahyu Permadi,Pariwisata,40,85,85,Lulus,97,2025-03-09,2025-03-14,6,2025,March
+PART-00082,"Nasab Laksita, M.Kom.",Kesehatan,240,99,60,Tidak Lulus,51,2025-10-20,2025-11-19,31,2025,October
+PART-00083,Puji Haryanto,Pariwisata,80,70,91,Tidak Lulus,63,2025-08-20,2025-08-30,11,2025,August
+PART-00084,"Endah Novitasari, S.Farm",Tataboga,40,83,74,Lulus,98,2025-03-30,2025-04-04,6,2025,March
+PART-00085,Tami Jailani,Teknologi Informasi,200,77,68,Tidak Lulus,57,2024-01-23,2024-02-17,26,2024,January
+PART-00086,"Dalima Marbun, S.E.I",Tataboga,200,98,48,Tidak Lulus,68,2024-10-22,2024-11-16,26,2024,October
+PART-00087,Dr. Zamira Prayoga,Kesehatan,240,73,64,Tidak Lulus,65,2024-10-10,2024-11-09,31,2024,October
+PART-00088,Samiah Purwanti,Desain Grafis,200,97,59,Tidak Lulus,58,2024-08-07,2024-09-01,26,2024,August
+PART-00089,"drg. Mitra Pangestu, S.Sos",Pariwisata,160,74,45,Tidak Lulus,72,2024-10-27,2024-11-16,21,2024,October
+PART-00090,Tina Haryanto,Konstruksi,160,97,50,Tidak Lulus,62,2023-12-11,2023-12-31,21,2023,December
+PART-00091,Kiandra Maulana,Tataboga,200,77,60,Tidak Lulus,64,2025-06-03,2025-06-28,26,2025,June
+PART-00092,Cut Rika Firmansyah,Desain Grafis,120,95,52,Tidak Lulus,66,2024-09-25,2024-10-10,16,2024,September
+PART-00093,Ir. Abyasa Pangestu,Kesehatan,240,77,94,Tidak Lulus,58,2025-04-21,2025-05-21,31,2025,April
+PART-00094,Maryanto Lazuardi,Teknologi Informasi,200,74,81,Tidak Lulus,59,2024-04-27,2024-05-22,26,2024,April
+PART-00095,Himawan Hidayat,Manufaktur,40,91,87,Lulus,91,2025-09-17,2025-09-22,6,2025,September
+PART-00096,"dr. Cinthia Tarihoran, M.Ak",Teknologi Informasi,200,75,97,Tidak Lulus,72,2025-07-15,2025-08-09,26,2025,July
+PART-00097,"Puput Situmorang, S.Farm",Tataboga,160,89,54,Tidak Lulus,65,2024-12-07,2024-12-27,21,2024,December
+PART-00098,Jaya Wasita,Kesehatan,80,90,46,Tidak Lulus,59,2025-03-24,2025-04-03,11,2025,March
+PART-00099,"Nurul Permata, S.E.I",Manufaktur,80,79,99,Tidak Lulus,65,2024-05-18,2024-05-28,11,2024,May
+PART-00100,Jaeman Anggraini,Pariwisata,200,80,89,Lulus,82,2023-11-19,2023-12-14,26,2023,November
+PART-00101,Halima Nashiruddin,Pariwisata,240,87,100,Lulus,86,2024-04-16,2024-05-16,31,2024,April
+PART-00102,"Ir. Tiara Iswahyudi, M.M.",Pariwisata,200,76,60,Tidak Lulus,71,2024-11-08,2024-12-03,26,2024,November
+PART-00103,Diana Winarno,Teknologi Informasi,40,82,47,Tidak Lulus,63,2024-01-20,2024-01-25,6,2024,January
+PART-00104,Zulaikha Hariyah,Teknologi Informasi,200,71,99,Tidak Lulus,57,2024-05-21,2024-06-15,26,2024,May
+PART-00105,"Dt. Prabu Uyainah, S.Pt",Teknologi Informasi,80,86,66,Tidak Lulus,54,2023-11-27,2023-12-07,11,2023,November
+PART-00106,Salwa Usamah,Pariwisata,80,84,99,Lulus,81,2024-01-06,2024-01-16,11,2024,January
+PART-00107,Gabriella Yuliarti,Desain Grafis,80,98,48,Tidak Lulus,57,2024-06-07,2024-06-17,11,2024,June
+PART-00108,Cut Oni Padmasari,Tataboga,120,98,54,Tidak Lulus,61,2025-04-17,2025-05-02,16,2025,April
+PART-00109,Nova Pertiwi,Teknologi Informasi,40,93,91,Lulus,75,2025-02-10,2025-02-15,6,2025,February
+PART-00110,dr. Wani Zulaika,Teknologi Informasi,160,95,80,Lulus,88,2025-01-02,2025-01-22,21,2025,January
+PART-00111,"Lukman Fujiati, S.Psi",Konstruksi,160,78,45,Tidak Lulus,68,2024-01-12,2024-02-01,21,2024,January
+PART-00112,KH. Kenzie Prabowo,Konstruksi,160,72,92,Tidak Lulus,74,2024-07-18,2024-08-07,21,2024,July
+PART-00113,Eli Manullang,Teknologi Informasi,160,73,48,Tidak Lulus,62,2024-07-05,2024-07-25,21,2024,July
+PART-00114,Vanesa Fujiati,Teknologi Informasi,240,89,84,Lulus,91,2025-09-25,2025-10-25,31,2025,September
+PART-00115,"Ir. Suci Nashiruddin, S.E.I",Manufaktur,160,99,87,Lulus,98,2024-06-27,2024-07-17,21,2024,June
+PART-00116,Padmi Sihombing,Kesehatan,120,88,83,Lulus,86,2024-03-09,2024-03-24,16,2024,March
+PART-00117,R. Praba Maryati,Pariwisata,200,100,48,Tidak Lulus,52,2025-09-18,2025-10-13,26,2025,September
+PART-00118,Drs. Paiman Sitompul,Teknologi Informasi,40,91,87,Lulus,97,2024-11-21,2024-11-26,6,2024,November
+PART-00119,Rahmi Prabowo,Konstruksi,40,82,98,Lulus,92,2025-08-08,2025-08-13,6,2025,August
+PART-00120,"Wardi Wacana, S.E.I",Manufaktur,160,93,77,Lulus,94,2024-06-18,2024-07-08,21,2024,June
+PART-00121,"drg. Rahman Thamrin, M.Ak",Desain Grafis,40,82,64,Tidak Lulus,55,2023-11-25,2023-11-30,6,2023,November
+PART-00122,Nadine Puspasari,Tataboga,80,80,45,Tidak Lulus,63,2024-11-24,2024-12-04,11,2024,November
+PART-00123,Aurora Hidayat,Tataboga,240,93,63,Tidak Lulus,57,2024-09-02,2024-10-02,31,2024,September
+PART-00124,"Azalea Halimah, S.Gz",Desain Grafis,80,85,75,Lulus,89,2024-11-29,2024-12-09,11,2024,November
+PART-00125,"Kiandra Mahendra, S.I.Kom",Teknologi Informasi,120,80,93,Lulus,79,2025-11-04,2025-11-19,16,2025,November
+PART-00126,Dinda Thamrin,Tataboga,120,92,67,Tidak Lulus,63,2025-11-07,2025-11-22,16,2025,November
+PART-00127,Gandi Kuswoyo,Teknologi Informasi,160,71,81,Tidak Lulus,59,2024-11-26,2024-12-16,21,2024,November
+PART-00128,Janet Wahyudin,Desain Grafis,200,98,85,Lulus,97,2025-06-29,2025-07-24,26,2025,June
+PART-00129,Gambira Wahyuni,Teknologi Informasi,40,81,52,Tidak Lulus,65,2024-10-27,2024-11-01,6,2024,October
+PART-00130,Tgk. Violet Sihombing,Desain Grafis,120,72,50,Tidak Lulus,53,2024-01-28,2024-02-12,16,2024,January
+PART-00131,"Almira Jailani, M.Kom.",Desain Grafis,40,78,77,Tidak Lulus,69,2025-01-07,2025-01-12,6,2025,January
+PART-00132,Melinda Purwanti,Desain Grafis,200,70,91,Tidak Lulus,53,2024-08-07,2024-09-01,26,2024,August
+PART-00133,Hardi Simanjuntak,Pariwisata,40,99,75,Lulus,75,2024-07-05,2024-07-10,6,2024,July
+PART-00134,Olivia Simanjuntak,Desain Grafis,120,96,88,Lulus,91,2025-09-10,2025-09-25,16,2025,September
+PART-00135,"Dwi Maryadi, S.Ked",Kesehatan,80,70,52,Tidak Lulus,55,2024-04-01,2024-04-11,11,2024,April
+PART-00136,Langgeng Nurdiyanti,Konstruksi,200,88,87,Lulus,82,2025-06-17,2025-07-12,26,2025,June
+PART-00137,Lega Rajasa,Desain Grafis,40,80,61,Tidak Lulus,66,2025-05-17,2025-05-22,6,2025,May
+PART-00138,Nadia Kusumo,Tataboga,240,84,91,Lulus,87,2024-01-14,2024-02-13,31,2024,January
+PART-00139,Fathonah Pertiwi,Konstruksi,80,76,75,Tidak Lulus,69,2024-02-21,2024-03-02,11,2024,February
+PART-00140,Hesti Sihotang,Kesehatan,40,91,57,Tidak Lulus,54,2024-10-25,2024-10-30,6,2024,October
+PART-00141,"Mustika Damanik, S.Pd",Manufaktur,40,73,100,Tidak Lulus,53,2024-03-08,2024-03-13,6,2024,March
+PART-00142,"R. Gaiman Prastuti, M.Pd",Konstruksi,80,94,76,Lulus,79,2025-07-04,2025-07-14,11,2025,July
+PART-00143,Eka Habibi,Pertanian,80,86,46,Tidak Lulus,54,2023-11-18,2023-11-28,11,2023,November
+PART-00144,Maya Lazuardi,Manufaktur,40,74,52,Tidak Lulus,56,2024-09-18,2024-09-23,6,2024,September
+PART-00145,"R. Gada Nugroho, S.E.I",Tataboga,160,80,70,Lulus,96,2025-07-20,2025-08-09,21,2025,July
+PART-00146,"drg. Zelaya Hastuti, S.Pd",Tataboga,160,75,67,Tidak Lulus,52,2025-08-05,2025-08-25,21,2025,August
+PART-00147,"Novi Setiawan, S.H.",Pariwisata,80,92,48,Tidak Lulus,51,2025-10-05,2025-10-15,11,2025,October
+PART-00148,Darimin Halim,Teknologi Informasi,240,79,55,Tidak Lulus,69,2024-06-06,2024-07-06,31,2024,June
+PART-00149,Novi Hastuti,Pertanian,200,100,96,Lulus,80,2024-02-23,2024-03-19,26,2024,February
+PART-00150,H. Estiawan Sirait,Desain Grafis,200,89,61,Tidak Lulus,57,2024-03-24,2024-04-18,26,2024,March
+PART-00151,Dt. Adhiarja Farida,Pertanian,240,88,51,Tidak Lulus,70,2025-06-07,2025-07-07,31,2025,June
+PART-00152,"dr. Maryanto Budiyanto, S.Psi",Manufaktur,240,79,53,Tidak Lulus,68,2024-10-30,2024-11-29,31,2024,October
+PART-00153,Jaka Marbun,Desain Grafis,160,70,95,Tidak Lulus,57,2025-02-15,2025-03-07,21,2025,February
+PART-00154,Setya Permadi,Pariwisata,80,90,46,Tidak Lulus,62,2024-06-16,2024-06-26,11,2024,June
+PART-00155,Cahyanto Hastuti,Desain Grafis,80,92,61,Tidak Lulus,64,2024-05-10,2024-05-20,11,2024,May
+PART-00156,Panji Oktaviani,Desain Grafis,200,97,85,Lulus,100,2024-11-08,2024-12-03,26,2024,November
+PART-00157,Galiono Gunarto,Konstruksi,80,96,54,Tidak Lulus,51,2024-06-01,2024-06-11,11,2024,June
+PART-00158,Leo Namaga,Pertanian,40,91,90,Lulus,90,2024-12-26,2024-12-31,6,2024,December
+PART-00159,"Mursita Habibi, M.M.",Pertanian,120,85,89,Lulus,78,2023-11-09,2023-11-24,16,2023,November
+PART-00160,Kezia Firgantoro,Pariwisata,240,74,67,Tidak Lulus,54,2024-08-06,2024-09-05,31,2024,August
+PART-00161,"Martana Laksmiwati, S.Pd",Kesehatan,200,70,49,Tidak Lulus,64,2025-03-27,2025-04-21,26,2025,March
+PART-00162,Johan Uwais,Desain Grafis,80,89,81,Lulus,86,2023-12-20,2023-12-30,11,2023,December
+PART-00163,Ira Mandala,Konstruksi,80,91,99,Lulus,77,2025-06-18,2025-06-28,11,2025,June
+PART-00164,Julia Ardianto,Manufaktur,160,89,78,Lulus,79,2025-05-13,2025-06-02,21,2025,May
+PART-00165,"Cut Malika Nainggolan, S.IP",Manufaktur,200,74,72,Tidak Lulus,55,2024-11-03,2024-11-28,26,2024,November
+PART-00166,T. Dadap Prayoga,Konstruksi,80,78,52,Tidak Lulus,72,2025-07-08,2025-07-18,11,2025,July
+PART-00167,drg. Najwa Marpaung,Desain Grafis,160,84,50,Tidak Lulus,62,2025-06-29,2025-07-19,21,2025,June
+PART-00168,"Kairav Tarihoran, S.E.I",Pariwisata,40,99,59,Tidak Lulus,70,2025-08-31,2025-09-05,6,2025,August
+PART-00169,Dinda Prabowo,Pertanian,160,96,80,Lulus,80,2024-04-08,2024-04-28,21,2024,April
+PART-00170,Heru Nugroho,Pariwisata,120,96,59,Tidak Lulus,60,2024-11-16,2024-12-01,16,2024,November
+PART-00171,Lamar Lailasari,Teknologi Informasi,160,86,58,Tidak Lulus,63,2024-02-25,2024-03-16,21,2024,February
+PART-00172,"Hardana Widiastuti, S.Ked",Kesehatan,200,81,96,Lulus,77,2024-06-25,2024-07-20,26,2024,June
+PART-00173,Usyi Maulana,Pertanian,40,70,60,Tidak Lulus,69,2024-06-05,2024-06-10,6,2024,June
+PART-00174,Enteng Prabowo,Teknologi Informasi,40,71,73,Tidak Lulus,72,2024-01-04,2024-01-09,6,2024,January
+PART-00175,Jatmiko Fujiati,Desain Grafis,80,75,96,Tidak Lulus,69,2025-06-09,2025-06-19,11,2025,June
+PART-00176,"Cut Tiara Prabowo, M.M.",Desain Grafis,200,90,83,Lulus,81,2024-07-28,2024-08-22,26,2024,July
+PART-00177,Melinda Rajasa,Pertanian,200,89,51,Tidak Lulus,69,2023-11-28,2023-12-23,26,2023,November
+PART-00178,"H. Irsad Samosir, M.TI.",Konstruksi,200,74,53,Tidak Lulus,67,2025-06-07,2025-07-02,26,2025,June
+PART-00179,Ana Firgantoro,Teknologi Informasi,40,90,65,Tidak Lulus,58,2024-03-15,2024-03-20,6,2024,March
+PART-00180,Rahman Siregar,Pertanian,80,76,98,Tidak Lulus,55,2024-08-02,2024-08-12,11,2024,August
+PART-00181,Raisa Saragih,Kesehatan,240,81,86,Lulus,96,2024-11-08,2024-12-08,31,2024,November
+PART-00182,Purwa Wacana,Pertanian,200,88,48,Tidak Lulus,63,2024-09-12,2024-10-07,26,2024,September
+PART-00183,Karsa Utama,Konstruksi,160,82,52,Tidak Lulus,71,2025-10-31,2025-11-20,21,2025,October
+PART-00184,Gangsa Hasanah,Pertanian,40,80,68,Tidak Lulus,53,2024-10-25,2024-10-30,6,2024,October
+PART-00185,Mahesa Riyanti,Kesehatan,120,70,62,Tidak Lulus,64,2024-08-02,2024-08-17,16,2024,August
+PART-00186,Agnes Hasanah,Teknologi Informasi,200,72,51,Tidak Lulus,74,2025-05-24,2025-06-18,26,2025,May
+PART-00187,Lutfan Purnawati,Pariwisata,80,72,55,Tidak Lulus,58,2024-01-28,2024-02-07,11,2024,January
+PART-00188,"Dian Nurdiyanti, M.Farm",Tataboga,40,83,72,Lulus,83,2025-08-09,2025-08-14,6,2025,August
+PART-00189,Karen Handayani,Konstruksi,120,99,80,Lulus,89,2025-02-22,2025-03-09,16,2025,February
+PART-00190,"drg. Restu Zulkarnain, S.Pd",Pariwisata,160,87,76,Lulus,86,2024-03-21,2024-04-10,21,2024,March
+PART-00191,Muhammad Hastuti,Manufaktur,160,77,57,Tidak Lulus,66,2025-02-09,2025-03-01,21,2025,February
+PART-00192,Mahdi Padmasari,Desain Grafis,80,83,65,Tidak Lulus,50,2024-02-03,2024-02-13,11,2024,February
+PART-00193,Rahmi Lazuardi,Desain Grafis,200,85,53,Tidak Lulus,71,2024-11-04,2024-11-29,26,2024,November
+PART-00194,"Elvina Hutagalung, S.Kom",Kesehatan,160,87,74,Lulus,99,2023-11-10,2023-11-30,21,2023,November
+PART-00195,Restu Pradipta,Kesehatan,160,97,64,Tidak Lulus,59,2024-12-21,2025-01-10,21,2024,December
+PART-00196,Tugiman Nasyidah,Teknologi Informasi,120,84,73,Lulus,90,2025-08-10,2025-08-25,16,2025,August
+PART-00197,Laras Samosir,Desain Grafis,40,100,50,Tidak Lulus,53,2023-12-11,2023-12-16,6,2023,December
+PART-00198,"Puti Nadine Lestari, S.Pd",Tataboga,40,78,78,Tidak Lulus,52,2025-04-08,2025-04-13,6,2025,April
+PART-00199,Ophelia Padmasari,Desain Grafis,40,95,82,Lulus,82,2023-12-06,2023-12-11,6,2023,December
+PART-00200,Catur Narpati,Manufaktur,40,91,66,Tidak Lulus,53,2024-03-11,2024-03-16,6,2024,March
+PART-00201,Okto Narpati,Kesehatan,200,71,76,Tidak Lulus,58,2025-03-12,2025-04-06,26,2025,March
+PART-00202,Wisnu Firmansyah,Manufaktur,120,98,96,Lulus,85,2025-08-20,2025-09-04,16,2025,August
+PART-00203,Oliva Adriansyah,Pertanian,120,79,45,Tidak Lulus,74,2025-03-18,2025-04-02,16,2025,March
+PART-00204,Leo Agustina,Teknologi Informasi,120,74,58,Tidak Lulus,66,2025-02-09,2025-02-24,16,2025,February
+PART-00205,Sutan Artanto Aryani,Manufaktur,160,73,84,Tidak Lulus,62,2024-05-28,2024-06-17,21,2024,May
+PART-00206,"Gamblang Yulianti, S.Gz",Pariwisata,120,89,73,Lulus,95,2025-09-09,2025-09-24,16,2025,September
+PART-00207,Puti Vera Novitasari,Pertanian,80,98,69,Tidak Lulus,55,2023-12-30,2024-01-09,11,2023,December
+PART-00208,Ir. Jaka Mansur,Kesehatan,120,90,81,Lulus,93,2023-12-17,2024-01-01,16,2023,December
+PART-00209,Usman Simanjuntak,Pertanian,160,81,76,Lulus,87,2024-09-06,2024-09-26,21,2024,September
+PART-00210,"Winda Widodo, M.Farm",Kesehatan,40,98,64,Tidak Lulus,73,2025-09-15,2025-09-20,6,2025,September
+PART-00211,R. Balijan Sudiati,Konstruksi,120,87,100,Lulus,91,2024-11-23,2024-12-08,16,2024,November
+PART-00212,Respati Dabukke,Pariwisata,80,91,55,Tidak Lulus,60,2025-01-20,2025-01-30,11,2025,January
+PART-00213,Ir. Puti Nashiruddin,Pariwisata,240,79,62,Tidak Lulus,62,2025-10-08,2025-11-07,31,2025,October
+PART-00214,"dr. Dimaz Mulyani, S.T.",Pariwisata,120,86,88,Lulus,97,2024-12-20,2025-01-04,16,2024,December
+PART-00215,Gading Hasanah,Pariwisata,40,89,77,Lulus,82,2024-03-29,2024-04-03,6,2024,March
+PART-00216,Yessi Prasetyo,Konstruksi,40,75,82,Tidak Lulus,58,2025-08-24,2025-08-29,6,2025,August
+PART-00217,Ganjaran Rajasa,Konstruksi,80,77,61,Tidak Lulus,65,2024-07-29,2024-08-08,11,2024,July
+PART-00218,"Dr. Nasrullah Pradipta, S.T.",Kesehatan,200,87,99,Lulus,94,2024-05-25,2024-06-19,26,2024,May
+PART-00219,"Syahrini Haryanto, M.TI.",Kesehatan,40,97,89,Lulus,75,2025-01-12,2025-01-17,6,2025,January
+PART-00220,Arsipatra Nugroho,Manufaktur,120,92,73,Lulus,84,2024-01-26,2024-02-10,16,2024,January
+PART-00221,Oliva Mulyani,Kesehatan,120,87,85,Lulus,88,2024-06-29,2024-07-14,16,2024,June
+PART-00222,Jayadi Haryanto,Konstruksi,120,97,98,Lulus,87,2025-06-16,2025-07-01,16,2025,June
+PART-00223,Hari Agustina,Konstruksi,80,81,94,Lulus,92,2024-07-14,2024-07-24,11,2024,July
+PART-00224,Cengkal Prasetya,Pariwisata,160,100,77,Lulus,79,2024-01-19,2024-02-08,21,2024,January
+PART-00225,H. Rudi Megantara,Pertanian,240,85,47,Tidak Lulus,67,2024-11-08,2024-12-08,31,2024,November
+PART-00226,Oman Januar,Tataboga,160,74,77,Tidak Lulus,59,2024-01-24,2024-02-13,21,2024,January
+PART-00227,Paulin Purnawati,Desain Grafis,200,96,95,Lulus,90,2025-02-07,2025-03-04,26,2025,February
+PART-00228,Dt. Artanto Mulyani,Kesehatan,200,93,98,Lulus,100,2023-12-23,2024-01-17,26,2023,December
+PART-00229,Ifa Salahudin,Tataboga,120,99,45,Tidak Lulus,53,2023-12-26,2024-01-10,16,2023,December
+PART-00230,Ir. Kairav Lailasari,Desain Grafis,120,73,59,Tidak Lulus,70,2025-02-17,2025-03-04,16,2025,February
+PART-00231,Gamani Firgantoro,Pariwisata,200,70,58,Tidak Lulus,70,2025-10-23,2025-11-17,26,2025,October
+PART-00232,"Kala Nasyidah, S.Pt",Pertanian,40,97,93,Lulus,98,2023-11-18,2023-11-23,6,2023,November
+PART-00233,Caket Kuswandari,Konstruksi,160,70,74,Tidak Lulus,71,2025-01-27,2025-02-16,21,2025,January
+PART-00234,"Sutan Banawi Ardianto, S.I.Kom",Teknologi Informasi,40,98,96,Lulus,88,2025-04-20,2025-04-25,6,2025,April
+PART-00235,Kenzie Utami,Tataboga,240,80,85,Lulus,99,2024-04-02,2024-05-02,31,2024,April
+PART-00236,Okta Simbolon,Pariwisata,40,93,89,Lulus,93,2024-07-04,2024-07-09,6,2024,July
+PART-00237,Garda Suryono,Manufaktur,80,99,88,Lulus,91,2025-09-08,2025-09-18,11,2025,September
+PART-00238,Hamima Rajata,Desain Grafis,40,70,84,Tidak Lulus,66,2024-12-03,2024-12-08,6,2024,December
+PART-00239,Taswir Hastuti,Manufaktur,200,86,78,Lulus,93,2024-05-14,2024-06-08,26,2024,May
+PART-00240,Prayitna Budiman,Tataboga,80,88,48,Tidak Lulus,54,2024-05-16,2024-05-26,11,2024,May
+PART-00241,Paris Napitupulu,Manufaktur,240,70,97,Tidak Lulus,54,2025-06-02,2025-07-02,31,2025,June
+PART-00242,"Hj. Suci Wastuti, S.Pt",Pertanian,200,73,99,Tidak Lulus,55,2025-02-18,2025-03-15,26,2025,February
+PART-00243,"Mutia Wacana, S.H.",Manufaktur,120,73,93,Tidak Lulus,58,2024-04-11,2024-04-26,16,2024,April
+PART-00244,R.M. Baktiadi Pratiwi,Manufaktur,80,86,76,Lulus,99,2024-07-15,2024-07-25,11,2024,July
+PART-00245,Caraka Thamrin,Pertanian,160,98,63,Tidak Lulus,72,2025-04-19,2025-05-09,21,2025,April
+PART-00246,Prasetya Habibi,Pariwisata,200,76,58,Tidak Lulus,73,2024-07-30,2024-08-24,26,2024,July
+PART-00247,Makara Dongoran,Kesehatan,160,74,82,Tidak Lulus,58,2023-11-24,2023-12-14,21,2023,November
+PART-00248,Bakiadi Rajata,Pertanian,200,98,59,Tidak Lulus,57,2025-01-06,2025-01-31,26,2025,January
+PART-00249,Kalim Novitasari,Pertanian,160,72,59,Tidak Lulus,58,2024-04-26,2024-05-16,21,2024,April
+PART-00250,Pandu Rahimah,Tataboga,120,94,80,Lulus,98,2024-04-06,2024-04-21,16,2024,April
+PART-00251,"Estiono Purwanti, S.Gz",Konstruksi,40,90,79,Lulus,87,2025-09-20,2025-09-25,6,2025,September
+PART-00252,"Suci Zulkarnain, S.I.Kom",Pariwisata,240,91,51,Tidak Lulus,65,2023-11-19,2023-12-19,31,2023,November
+PART-00253,Tgk. Anita Mustofa,Tataboga,80,72,50,Tidak Lulus,71,2024-09-09,2024-09-19,11,2024,September
+PART-00254,Dewi Uyainah,Pariwisata,240,87,89,Lulus,100,2024-12-24,2025-01-23,31,2024,December
+PART-00255,"Queen Usamah, S.Pd",Pertanian,40,88,65,Tidak Lulus,57,2024-12-05,2024-12-10,6,2024,December
+PART-00256,"R. Liman Fujiati, M.Ak",Pertanian,120,98,84,Lulus,81,2024-12-12,2024-12-27,16,2024,December
+PART-00257,"Halim Laksmiwati, M.Pd",Tataboga,240,99,94,Lulus,78,2024-05-08,2024-06-07,31,2024,May
+PART-00258,Aslijan Nasyiah,Kesehatan,120,70,81,Tidak Lulus,68,2025-06-15,2025-06-30,16,2025,June
+PART-00259,"drg. Padma Hasanah, S.Gz",Teknologi Informasi,160,94,85,Lulus,89,2025-08-15,2025-09-04,21,2025,August
+PART-00260,Imam Palastri,Teknologi Informasi,80,93,88,Lulus,84,2025-03-26,2025-04-05,11,2025,March
+PART-00261,Balamantri Laksita,Pariwisata,240,84,45,Tidak Lulus,58,2024-11-17,2024-12-17,31,2024,November
+PART-00262,Kanda Dongoran,Kesehatan,120,96,85,Lulus,79,2024-04-27,2024-05-12,16,2024,April
+PART-00263,Karimah Santoso,Teknologi Informasi,40,71,63,Tidak Lulus,57,2024-11-13,2024-11-18,6,2024,November
+PART-00264,"Tgk. Maria Saragih, M.Pd",Tataboga,160,92,45,Tidak Lulus,58,2025-05-17,2025-06-06,21,2025,May
+PART-00265,Drs. Gaman Prakasa,Desain Grafis,240,89,60,Tidak Lulus,55,2025-02-03,2025-03-05,31,2025,February
+PART-00266,Puput Firmansyah,Pertanian,80,75,74,Tidak Lulus,65,2025-03-21,2025-03-31,11,2025,March
+PART-00267,Cawisadi Sirait,Desain Grafis,160,79,74,Tidak Lulus,65,2024-03-26,2024-04-15,21,2024,March
+PART-00268,Jais Prabowo,Konstruksi,240,78,57,Tidak Lulus,68,2025-05-28,2025-06-27,31,2025,May
+PART-00269,"Laras Novitasari, M.TI.",Manufaktur,80,77,96,Tidak Lulus,54,2025-11-03,2025-11-13,11,2025,November
+PART-00270,Jati Nurdiyanti,Manufaktur,240,89,64,Tidak Lulus,67,2025-04-05,2025-05-05,31,2025,April
+PART-00271,Mitra Nurdiyanti,Konstruksi,240,90,64,Tidak Lulus,50,2023-12-16,2024-01-15,31,2023,December
+PART-00272,Harjaya Wijaya,Teknologi Informasi,120,74,80,Tidak Lulus,54,2024-01-22,2024-02-06,16,2024,January
+PART-00273,Rahmi Hidayanto,Teknologi Informasi,160,85,59,Tidak Lulus,69,2025-04-20,2025-05-10,21,2025,April
+PART-00274,"R. Jessica Tarihoran, M.Kom.",Kesehatan,40,99,51,Tidak Lulus,71,2024-05-29,2024-06-03,6,2024,May
+PART-00275,KH. Raditya Prasetyo,Tataboga,120,90,66,Tidak Lulus,58,2025-09-27,2025-10-12,16,2025,September
+PART-00276,Hani Damanik,Konstruksi,160,75,79,Tidak Lulus,72,2025-08-30,2025-09-19,21,2025,August
+PART-00277,Jumari Wacana,Kesehatan,120,73,46,Tidak Lulus,59,2023-11-29,2023-12-14,16,2023,November
+PART-00278,Oman Uyainah,Pariwisata,120,97,90,Lulus,94,2025-08-06,2025-08-21,16,2025,August
+PART-00279,Adhiarja Rajasa,Desain Grafis,80,71,61,Tidak Lulus,74,2024-05-23,2024-06-02,11,2024,May
+PART-00280,"Kemal Hartati, S.Farm",Tataboga,80,70,89,Tidak Lulus,52,2024-03-01,2024-03-11,11,2024,March
+PART-00281,"Opan Wibisono, S.I.Kom",Tataboga,200,76,74,Tidak Lulus,52,2024-04-10,2024-05-05,26,2024,April
+PART-00282,Gina Haryanto,Pertanian,200,70,72,Tidak Lulus,63,2025-05-28,2025-06-22,26,2025,May
+PART-00283,Rangga Rahmawati,Tataboga,160,88,86,Lulus,93,2024-08-04,2024-08-24,21,2024,August
+PART-00284,Galih Zulkarnain,Pariwisata,240,82,57,Tidak Lulus,71,2024-12-27,2025-01-26,31,2024,December
+PART-00285,Gilang Iswahyudi,Tataboga,160,74,60,Tidak Lulus,72,2024-02-08,2024-02-28,21,2024,February
+PART-00286,Lala Novitasari,Manufaktur,120,94,95,Lulus,96,2024-07-19,2024-08-03,16,2024,July
+PART-00287,"Ida Thamrin, S.Sos",Kesehatan,200,78,53,Tidak Lulus,73,2025-02-22,2025-03-19,26,2025,February
+PART-00288,Wakiman Saptono,Tataboga,80,93,72,Lulus,99,2024-03-29,2024-04-08,11,2024,March
+PART-00289,Yuni Yuniar,Konstruksi,80,82,78,Lulus,78,2024-01-23,2024-02-02,11,2024,January
+PART-00290,Hj. Jelita Setiawan,Konstruksi,200,73,97,Tidak Lulus,72,2024-06-26,2024-07-21,26,2024,June
+PART-00291,Puti Laila Oktaviani,Konstruksi,200,75,65,Tidak Lulus,56,2024-06-19,2024-07-14,26,2024,June
+PART-00292,Karta Utama,Teknologi Informasi,80,89,55,Tidak Lulus,73,2024-09-13,2024-09-23,11,2024,September
+PART-00293,Mumpuni Uwais,Konstruksi,80,97,47,Tidak Lulus,70,2025-03-20,2025-03-30,11,2025,March
+PART-00294,Nasab Santoso,Teknologi Informasi,240,74,71,Tidak Lulus,71,2024-08-31,2024-09-30,31,2024,August
+PART-00295,Zalindra Nasyidah,Kesehatan,120,77,88,Tidak Lulus,68,2024-08-07,2024-08-22,16,2024,August
+PART-00296,Hamzah Kuswoyo,Pariwisata,40,76,60,Tidak Lulus,61,2024-02-23,2024-02-28,6,2024,February
+PART-00297,"Aurora Haryanti, S.E.",Teknologi Informasi,240,87,54,Tidak Lulus,58,2025-01-23,2025-02-22,31,2025,January
+PART-00298,Gantar Budiyanto,Pariwisata,120,98,98,Lulus,82,2024-12-02,2024-12-17,16,2024,December
+PART-00299,"drg. Wirda Firgantoro, S.IP",Tataboga,240,80,58,Tidak Lulus,62,2025-08-02,2025-09-01,31,2025,August
+PART-00300,"Bala Purwanti, M.Ak",Pertanian,40,99,48,Tidak Lulus,64,2025-02-15,2025-02-20,6,2025,February
+PART-00301,Asirwanda Suryatmi,Pariwisata,240,95,51,Tidak Lulus,68,2025-03-07,2025-04-06,31,2025,March
+PART-00302,Caket Ardianto,Konstruksi,240,95,58,Tidak Lulus,74,2024-02-07,2024-03-08,31,2024,February
+PART-00303,Kayun Manullang,Tataboga,120,71,80,Tidak Lulus,57,2024-02-08,2024-02-23,16,2024,February
+PART-00304,Ir. Ciaobella Santoso,Konstruksi,80,74,49,Tidak Lulus,65,2024-05-04,2024-05-14,11,2024,May
+PART-00305,Jamal Marpaung,Desain Grafis,160,85,84,Lulus,93,2024-10-01,2024-10-21,21,2024,October
+PART-00306,Kasusra Widiastuti,Pertanian,40,77,88,Tidak Lulus,70,2025-09-11,2025-09-16,6,2025,September
+PART-00307,Jaiman Purwanti,Manufaktur,240,79,99,Tidak Lulus,59,2024-07-18,2024-08-17,31,2024,July
+PART-00308,Garan Riyanti,Pertanian,80,97,86,Lulus,96,2024-09-21,2024-10-01,11,2024,September
+PART-00309,Kayla Suartini,Pariwisata,80,79,68,Tidak Lulus,50,2025-06-10,2025-06-20,11,2025,June
+PART-00310,"Kusuma Purnawati, S.E.I",Kesehatan,240,73,84,Tidak Lulus,72,2024-01-25,2024-02-24,31,2024,January
+PART-00311,Ir. Atmaja Mansur,Konstruksi,240,85,88,Lulus,93,2023-12-26,2024-01-25,31,2023,December
+PART-00312,"Drs. Wage Natsir, S.Farm",Teknologi Informasi,80,74,82,Tidak Lulus,74,2025-08-25,2025-09-04,11,2025,August
+PART-00313,"Drs. Cahyanto Wibisono, S.Psi",Tataboga,120,72,57,Tidak Lulus,67,2024-06-08,2024-06-23,16,2024,June
+PART-00314,Zelda Utama,Pariwisata,120,74,49,Tidak Lulus,65,2025-03-10,2025-03-25,16,2025,March
+PART-00315,Dr. Vinsen Andriani,Konstruksi,200,72,46,Tidak Lulus,73,2025-03-09,2025-04-03,26,2025,March
+PART-00316,Raharja Saptono,Pertanian,200,97,62,Tidak Lulus,58,2024-11-02,2024-11-27,26,2024,November
+PART-00317,Jail Damanik,Manufaktur,40,74,49,Tidak Lulus,53,2024-10-11,2024-10-16,6,2024,October
+PART-00318,Gaiman Tarihoran,Teknologi Informasi,160,90,88,Lulus,76,2024-05-16,2024-06-05,21,2024,May
+PART-00319,"R. Yessi Laksmiwati, M.M.",Pariwisata,240,78,98,Tidak Lulus,59,2025-09-09,2025-10-09,31,2025,September
+PART-00320,Ilyas Budiyanto,Manufaktur,200,85,64,Tidak Lulus,63,2025-02-16,2025-03-13,26,2025,February
+PART-00321,"Dr. Eman Pangestu, S.E.I",Pariwisata,120,84,61,Tidak Lulus,59,2024-01-16,2024-01-31,16,2024,January
+PART-00322,Wulan Sitorus,Pertanian,160,76,62,Tidak Lulus,57,2025-06-01,2025-06-21,21,2025,June
+PART-00323,Kasiran Utami,Manufaktur,120,95,46,Tidak Lulus,50,2025-06-05,2025-06-20,16,2025,June
+PART-00324,Nabila Hastuti,Kesehatan,240,95,46,Tidak Lulus,63,2025-02-11,2025-03-13,31,2025,February
+PART-00325,Julia Maryati,Pertanian,40,71,66,Tidak Lulus,63,2024-10-24,2024-10-29,6,2024,October
+PART-00326,"KH. Eko Rahayu, S.Farm",Pariwisata,120,90,48,Tidak Lulus,73,2025-01-02,2025-01-17,16,2025,January
+PART-00327,Puti Pratama,Teknologi Informasi,120,72,92,Tidak Lulus,57,2024-08-03,2024-08-18,16,2024,August
+PART-00328,Indra Laksita,Teknologi Informasi,120,86,76,Lulus,98,2023-11-28,2023-12-13,16,2023,November
+PART-00329,drg. Pangestu Simbolon,Manufaktur,80,83,55,Tidak Lulus,59,2024-06-30,2024-07-10,11,2024,June
+PART-00330,Jamalia Andriani,Konstruksi,120,76,82,Tidak Lulus,57,2024-11-05,2024-11-20,16,2024,November
+PART-00331,"Febi Purwanti, S.Psi",Kesehatan,120,77,57,Tidak Lulus,73,2024-10-23,2024-11-07,16,2024,October
+PART-00332,Victoria Saptono,Teknologi Informasi,200,93,94,Lulus,85,2025-07-02,2025-07-27,26,2025,July
+PART-00333,"drg. Gangsa Anggraini, M.M.",Desain Grafis,160,94,100,Lulus,82,2025-09-20,2025-10-10,21,2025,September
+PART-00334,Catur Nainggolan,Tataboga,40,95,62,Tidak Lulus,73,2024-09-04,2024-09-09,6,2024,September
+PART-00335,Shania Nasyidah,Desain Grafis,160,91,52,Tidak Lulus,60,2024-03-27,2024-04-16,21,2024,March
+PART-00336,Laksana Astuti,Kesehatan,240,94,79,Lulus,78,2024-04-14,2024-05-14,31,2024,April
+PART-00337,"drg. Praba Anggraini, S.H.",Konstruksi,40,85,65,Tidak Lulus,69,2024-05-23,2024-05-28,6,2024,May
+PART-00338,Gandi Budiyanto,Manufaktur,200,74,71,Tidak Lulus,71,2024-08-27,2024-09-21,26,2024,August
+PART-00339,Hasan Hutagalung,Teknologi Informasi,240,75,65,Tidak Lulus,54,2024-12-10,2025-01-09,31,2024,December
+PART-00340,"Cut Dewi Sitorus, S.Ked",Konstruksi,200,78,45,Tidak Lulus,56,2024-07-29,2024-08-23,26,2024,July
+PART-00341,"dr. Dodo Adriansyah, S.E.I",Konstruksi,160,95,85,Lulus,75,2023-11-29,2023-12-19,21,2023,November
+PART-00342,T. Kayun Napitupulu,Kesehatan,160,83,54,Tidak Lulus,54,2025-10-24,2025-11-13,21,2025,October
+PART-00343,Taswir Farida,Tataboga,80,99,60,Tidak Lulus,72,2025-09-16,2025-09-26,11,2025,September
+PART-00344,Zamira Prasetya,Konstruksi,80,91,98,Lulus,85,2023-12-07,2023-12-17,11,2023,December
+PART-00345,Manah Ramadan,Tataboga,200,76,81,Tidak Lulus,63,2025-04-24,2025-05-19,26,2025,April
+PART-00346,"Ir. Maman Tarihoran, S.IP",Konstruksi,240,87,65,Tidak Lulus,56,2025-02-09,2025-03-11,31,2025,February
+PART-00347,"drg. Hamzah Haryanto, M.Ak",Kesehatan,240,86,48,Tidak Lulus,58,2025-01-10,2025-02-09,31,2025,January
+PART-00348,Malika Suartini,Kesehatan,200,79,59,Tidak Lulus,67,2024-08-16,2024-09-10,26,2024,August
+PART-00349,Surya Mustofa,Pertanian,120,92,45,Tidak Lulus,73,2025-03-24,2025-04-08,16,2025,March
+PART-00350,"Gina Zulaika, S.T.",Pariwisata,200,82,96,Lulus,75,2024-01-04,2024-01-29,26,2024,January
+PART-00351,Praba Haryanto,Manufaktur,160,88,93,Lulus,87,2025-06-08,2025-06-28,21,2025,June
+PART-00352,Dadi Wulandari,Desain Grafis,240,81,96,Lulus,95,2024-02-03,2024-03-04,31,2024,February
+PART-00353,Widya Mulyani,Manufaktur,160,91,74,Lulus,86,2023-12-17,2024-01-06,21,2023,December
+PART-00354,Cawuk Hutasoit,Tataboga,240,81,96,Lulus,81,2025-05-28,2025-06-27,31,2025,May
+PART-00355,Saadat Suartini,Pertanian,240,95,89,Lulus,83,2024-03-02,2024-04-01,31,2024,March
+PART-00356,"Ganep Sinaga, S.Ked",Desain Grafis,40,76,88,Tidak Lulus,59,2024-01-10,2024-01-15,6,2024,January
+PART-00357,R.A. Icha Anggriawan,Konstruksi,160,75,57,Tidak Lulus,62,2024-08-11,2024-08-31,21,2024,August
+PART-00358,"R. Hana Latupono, S.Farm",Desain Grafis,200,76,66,Tidak Lulus,61,2025-04-16,2025-05-11,26,2025,April
+PART-00359,Puti Agnes Sudiati,Desain Grafis,40,71,83,Tidak Lulus,60,2024-08-15,2024-08-20,6,2024,August
+PART-00360,"Shania Mardhiyah, M.Pd",Teknologi Informasi,200,74,75,Tidak Lulus,50,2025-07-24,2025-08-18,26,2025,July
+PART-00361,"T. Chandra Puspasari, S.Pd",Pariwisata,40,76,92,Tidak Lulus,53,2025-07-06,2025-07-11,6,2025,July
+PART-00362,R.A. Yuliana Putra,Pertanian,120,89,46,Tidak Lulus,54,2024-07-31,2024-08-15,16,2024,July
+PART-00363,"Martana Nuraini, M.Pd",Pariwisata,40,98,78,Lulus,87,2024-01-17,2024-01-22,6,2024,January
+PART-00364,"Sutan Martani Mulyani, M.Pd",Konstruksi,160,86,65,Tidak Lulus,53,2025-10-04,2025-10-24,21,2025,October
+PART-00365,Ridwan Pertiwi,Pariwisata,80,91,77,Lulus,76,2024-02-23,2024-03-04,11,2024,February
+PART-00366,"Ian Mahendra, M.TI.",Kesehatan,40,88,51,Tidak Lulus,52,2024-07-23,2024-07-28,6,2024,July
+PART-00367,Ratih Saputra,Konstruksi,200,74,63,Tidak Lulus,58,2025-05-22,2025-06-16,26,2025,May
+PART-00368,Cut Salsabila Halim,Pariwisata,40,100,89,Lulus,90,2024-07-17,2024-07-22,6,2024,July
+PART-00369,"Respati Maryadi, S.Ked",Manufaktur,200,78,54,Tidak Lulus,63,2025-05-05,2025-05-30,26,2025,May
+PART-00370,Ulva Mulyani,Teknologi Informasi,160,99,62,Tidak Lulus,57,2025-03-24,2025-04-13,21,2025,March
+PART-00371,"T. Wardaya Prasetya, S.Psi",Manufaktur,40,80,55,Tidak Lulus,54,2024-07-22,2024-07-27,6,2024,July
+PART-00372,Cahyono Astuti,Manufaktur,240,75,81,Tidak Lulus,66,2024-08-10,2024-09-09,31,2024,August
+PART-00373,Tania Hutagalung,Kesehatan,240,78,72,Tidak Lulus,58,2024-10-01,2024-10-31,31,2024,October
+PART-00374,Elisa Sihotang,Tataboga,160,72,96,Tidak Lulus,70,2024-01-02,2024-01-22,21,2024,January
+PART-00375,Jagapati Mustofa,Konstruksi,200,79,82,Tidak Lulus,60,2025-03-07,2025-04-01,26,2025,March
+PART-00376,"Puti Rahmi Samosir, S.Pt",Pariwisata,80,75,63,Tidak Lulus,69,2024-05-07,2024-05-17,11,2024,May
+PART-00377,"Ir. Cager Wibisono, M.TI.",Konstruksi,40,70,82,Tidak Lulus,66,2024-03-06,2024-03-11,6,2024,March
+PART-00378,Jane Uwais,Pertanian,120,96,77,Lulus,78,2024-02-18,2024-03-04,16,2024,February
+PART-00379,Garda Suartini,Kesehatan,80,74,89,Tidak Lulus,50,2024-11-25,2024-12-05,11,2024,November
+PART-00380,Ir. Ismail Sihombing,Teknologi Informasi,240,89,81,Lulus,84,2025-11-07,2025-12-07,31,2025,November
+PART-00381,Ganep Wijaya,Pariwisata,120,75,71,Tidak Lulus,64,2024-10-19,2024-11-03,16,2024,October
+PART-00382,Drs. Sarah Ardianto,Konstruksi,40,72,100,Tidak Lulus,62,2024-12-24,2024-12-29,6,2024,December
+PART-00383,"Tina Novitasari, M.Farm",Konstruksi,200,81,64,Tidak Lulus,73,2024-10-02,2024-10-27,26,2024,October
+PART-00384,Dt. Pandu Puspasari,Konstruksi,80,90,93,Lulus,83,2025-08-21,2025-08-31,11,2025,August
+PART-00385,Koko Namaga,Kesehatan,200,94,74,Lulus,92,2024-07-17,2024-08-11,26,2024,July
+PART-00386,Diana Mandasari,Desain Grafis,160,90,94,Lulus,91,2024-06-15,2024-07-05,21,2024,June
+PART-00387,Karna Prayoga,Pariwisata,80,83,66,Tidak Lulus,55,2024-01-03,2024-01-13,11,2024,January
+PART-00388,Jais Wulandari,Kesehatan,120,74,79,Tidak Lulus,66,2023-11-27,2023-12-12,16,2023,November
+PART-00389,"Vanya Wibowo, M.Ak",Pertanian,120,98,73,Lulus,94,2025-02-19,2025-03-06,16,2025,February
+PART-00390,Zelaya Thamrin,Konstruksi,40,96,56,Tidak Lulus,58,2024-01-08,2024-01-13,6,2024,January
+PART-00391,Hendra Yulianti,Pariwisata,80,85,74,Lulus,83,2025-08-02,2025-08-12,11,2025,August
+PART-00392,Kiandra Habibi,Pertanian,80,70,99,Tidak Lulus,52,2025-03-13,2025-03-23,11,2025,March
+PART-00393,"H. Cemplunk Hartati, S.T.",Desain Grafis,80,98,82,Lulus,100,2024-06-03,2024-06-13,11,2024,June
+PART-00394,"R.A. Cici Prakasa, S.H.",Manufaktur,120,80,49,Tidak Lulus,52,2025-07-19,2025-08-03,16,2025,July
+PART-00395,Darsirah Mahendra,Kesehatan,240,99,94,Lulus,87,2024-07-03,2024-08-02,31,2024,July
+PART-00396,"Vinsen Gunawan, S.Gz",Manufaktur,80,87,93,Lulus,84,2025-08-31,2025-09-10,11,2025,August
+PART-00397,Najwa Hutapea,Tataboga,80,81,93,Lulus,99,2025-01-20,2025-01-30,11,2025,January
+PART-00398,Sutan Oman Waskita,Tataboga,200,95,96,Lulus,80,2025-09-28,2025-10-23,26,2025,September
+PART-00399,"Drs. Zulfa Tampubolon, M.TI.",Konstruksi,200,98,94,Lulus,82,2024-09-11,2024-10-06,26,2024,September
+PART-00400,Tira Ramadan,Desain Grafis,200,86,81,Lulus,75,2025-04-11,2025-05-06,26,2025,April
+PART-00401,"T. Wisnu Iswahyudi, S.T.",Tataboga,120,87,76,Lulus,93,2024-10-10,2024-10-25,16,2024,October
+PART-00402,Ega Saptono,Manufaktur,240,83,99,Lulus,80,2025-08-05,2025-09-04,31,2025,August
+PART-00403,Ina Wastuti,Teknologi Informasi,40,91,97,Lulus,91,2023-12-24,2023-12-29,6,2023,December
+PART-00404,"Caturangga Aryani, S.I.Kom",Desain Grafis,80,85,69,Tidak Lulus,63,2024-06-18,2024-06-28,11,2024,June
+PART-00405,Dr. Lanang Kusumo,Kesehatan,40,73,57,Tidak Lulus,73,2025-02-09,2025-02-14,6,2025,February
+PART-00406,Jasmin Yuliarti,Teknologi Informasi,160,87,61,Tidak Lulus,66,2023-12-04,2023-12-24,21,2023,December
+PART-00407,Prima Handayani,Tataboga,120,80,58,Tidak Lulus,74,2025-01-21,2025-02-05,16,2025,January
+PART-00408,Sabrina Suwarno,Tataboga,80,77,88,Tidak Lulus,53,2024-03-13,2024-03-23,11,2024,March
+PART-00409,Irfan Wastuti,Konstruksi,240,85,48,Tidak Lulus,65,2024-06-10,2024-07-10,31,2024,June
+PART-00410,"Radika Laksita, S.E.",Teknologi Informasi,120,73,77,Tidak Lulus,73,2025-05-18,2025-06-02,16,2025,May
+PART-00411,Aswani Oktaviani,Kesehatan,200,92,84,Lulus,90,2025-09-16,2025-10-11,26,2025,September
+PART-00412,Genta Habibi,Teknologi Informasi,160,79,68,Tidak Lulus,70,2025-05-26,2025-06-15,21,2025,May
+PART-00413,drg. Puput Yuniar,Pertanian,40,85,68,Tidak Lulus,71,2024-12-22,2024-12-27,6,2024,December
+PART-00414,"Fitria Mandasari, M.Kom.",Manufaktur,160,92,69,Tidak Lulus,59,2024-06-20,2024-07-10,21,2024,June
+PART-00415,"Nadine Aryani, M.M.",Pariwisata,40,81,51,Tidak Lulus,58,2023-12-18,2023-12-23,6,2023,December
+PART-00416,Kasiyah Melani,Desain Grafis,160,86,65,Tidak Lulus,58,2025-03-21,2025-04-10,21,2025,March
+PART-00417,"Almira Adriansyah, S.Pt",Desain Grafis,40,84,70,Lulus,83,2025-06-11,2025-06-16,6,2025,June
+PART-00418,Bagus Napitupulu,Tataboga,160,95,61,Tidak Lulus,73,2025-06-08,2025-06-28,21,2025,June
+PART-00419,Hasim Budiyanto,Konstruksi,80,99,96,Lulus,98,2024-05-08,2024-05-18,11,2024,May
+PART-00420,Prabowo Maheswara,Konstruksi,120,88,63,Tidak Lulus,72,2025-09-13,2025-09-28,16,2025,September
+PART-00421,Widya Palastri,Pertanian,120,72,97,Tidak Lulus,63,2024-07-01,2024-07-16,16,2024,July
+PART-00422,Nurul Hastuti,Teknologi Informasi,240,83,99,Lulus,75,2024-10-24,2024-11-23,31,2024,October
+PART-00423,Jumadi Thamrin,Konstruksi,200,75,45,Tidak Lulus,72,2025-10-01,2025-10-26,26,2025,October
+PART-00424,"Puti Zalindra Prastuti, S.I.Kom",Konstruksi,120,100,92,Lulus,78,2024-11-25,2024-12-10,16,2024,November
+PART-00425,Vega Thamrin,Desain Grafis,120,92,65,Tidak Lulus,55,2023-11-17,2023-12-02,16,2023,November
+PART-00426,Hendri Pratama,Teknologi Informasi,120,71,69,Tidak Lulus,60,2025-07-19,2025-08-03,16,2025,July
+PART-00427,Kariman Mustofa,Konstruksi,120,94,48,Tidak Lulus,67,2024-05-21,2024-06-05,16,2024,May
+PART-00428,Safina Thamrin,Kesehatan,120,97,70,Lulus,75,2025-05-10,2025-05-25,16,2025,May
+PART-00429,Ganda Nababan,Manufaktur,200,83,93,Lulus,84,2025-04-23,2025-05-18,26,2025,April
+PART-00430,Melinda Mahendra,Desain Grafis,240,98,61,Tidak Lulus,69,2025-03-05,2025-04-04,31,2025,March
+PART-00431,Kartika Halim,Manufaktur,120,98,60,Tidak Lulus,57,2024-03-26,2024-04-10,16,2024,March
+PART-00432,"Chelsea Siregar, M.Pd",Manufaktur,200,82,76,Lulus,96,2024-01-08,2024-02-02,26,2024,January
+PART-00433,Arta Santoso,Pariwisata,40,97,48,Tidak Lulus,50,2025-06-22,2025-06-27,6,2025,June
+PART-00434,"Alika Nuraini, S.Kom",Pariwisata,120,72,83,Tidak Lulus,68,2025-10-29,2025-11-13,16,2025,October
+PART-00435,Jarwi Agustina,Tataboga,240,86,70,Lulus,79,2024-09-22,2024-10-22,31,2024,September
+PART-00436,"Jarwadi Thamrin, S.Pt",Pertanian,240,70,46,Tidak Lulus,66,2024-09-09,2024-10-09,31,2024,September
+PART-00437,"R. Daru Putra, S.I.Kom",Kesehatan,160,76,83,Tidak Lulus,74,2025-08-05,2025-08-25,21,2025,August
+PART-00438,"Rahayu Farida, S.Farm",Manufaktur,80,79,81,Tidak Lulus,58,2024-04-19,2024-04-29,11,2024,April
+PART-00439,"Dr. Lanang Manullang, S.E.I",Desain Grafis,120,73,81,Tidak Lulus,53,2025-09-06,2025-09-21,16,2025,September
+PART-00440,Dt. Indra Pranowo,Manufaktur,160,87,90,Lulus,90,2025-10-29,2025-11-18,21,2025,October
+PART-00441,Elon Permata,Pariwisata,240,99,60,Tidak Lulus,66,2025-02-08,2025-03-10,31,2025,February
+PART-00442,Raihan Rahayu,Pertanian,80,96,66,Tidak Lulus,52,2025-01-13,2025-01-23,11,2025,January
+PART-00443,"Yusuf Hutapea, S.E.",Tataboga,200,81,58,Tidak Lulus,72,2024-04-05,2024-04-30,26,2024,April
+PART-00444,Praba Siregar,Kesehatan,200,71,71,Tidak Lulus,65,2024-03-13,2024-04-07,26,2024,March
+PART-00445,Restu Anggriawan,Tataboga,240,93,68,Tidak Lulus,70,2025-02-04,2025-03-06,31,2025,February
+PART-00446,Jefri Thamrin,Konstruksi,240,92,51,Tidak Lulus,58,2025-05-23,2025-06-22,31,2025,May
+PART-00447,Raisa Setiawan,Kesehatan,80,70,99,Tidak Lulus,57,2024-08-11,2024-08-21,11,2024,August
+PART-00448,"Luwes Tamba, M.M.",Pariwisata,160,71,92,Tidak Lulus,64,2025-07-14,2025-08-03,21,2025,July
+PART-00449,"Gandewa Zulkarnain, M.Ak",Pertanian,240,79,47,Tidak Lulus,70,2024-05-30,2024-06-29,31,2024,May
+PART-00450,"Tgk. Laila Sihombing, S.Sos",Pertanian,120,94,74,Lulus,98,2024-06-04,2024-06-19,16,2024,June
+PART-00451,Luthfi Simanjuntak,Teknologi Informasi,40,71,49,Tidak Lulus,57,2025-05-28,2025-06-02,6,2025,May
+PART-00452,Paramita Prayoga,Teknologi Informasi,240,91,57,Tidak Lulus,56,2023-11-13,2023-12-13,31,2023,November
+PART-00453,"H. Himawan Novitasari, M.M.",Teknologi Informasi,240,74,68,Tidak Lulus,62,2024-07-22,2024-08-21,31,2024,July
+PART-00454,Damar Hariyah,Manufaktur,80,93,98,Lulus,88,2024-06-22,2024-07-02,11,2024,June
+PART-00455,"Dr. Gaduh Damanik, M.Farm",Manufaktur,160,72,68,Tidak Lulus,50,2023-11-26,2023-12-16,21,2023,November
+PART-00456,Anastasia Suartini,Pertanian,80,84,60,Tidak Lulus,70,2025-08-25,2025-09-04,11,2025,August
+PART-00457,Salwa Prasasta,Tataboga,200,88,67,Tidak Lulus,69,2025-02-04,2025-03-01,26,2025,February
+PART-00458,Laras Mandala,Kesehatan,200,97,93,Lulus,96,2025-01-04,2025-01-29,26,2025,January
+PART-00459,Rizki Widodo,Konstruksi,80,89,53,Tidak Lulus,74,2025-09-01,2025-09-11,11,2025,September
+PART-00460,Gangsar Riyanti,Pertanian,240,74,98,Tidak Lulus,68,2024-11-01,2024-12-01,31,2024,November
+PART-00461,Indah Yuniar,Pertanian,40,94,56,Tidak Lulus,56,2025-10-30,2025-11-04,6,2025,October
+PART-00462,Cindy Pertiwi,Tataboga,160,81,65,Tidak Lulus,58,2025-08-11,2025-08-31,21,2025,August
+PART-00463,Humaira Lestari,Pariwisata,40,83,95,Lulus,89,2025-07-15,2025-07-20,6,2025,July
+PART-00464,Betania Rajasa,Pariwisata,120,78,89,Tidak Lulus,67,2024-07-10,2024-07-25,16,2024,July
+PART-00465,Elvina Prasetya,Kesehatan,80,94,81,Lulus,100,2025-06-22,2025-07-02,11,2025,June
+PART-00466,"drg. Qori Napitupulu, S.E.I",Tataboga,40,84,78,Lulus,79,2025-05-20,2025-05-25,6,2025,May
+PART-00467,"Iriana Suwarno, S.H.",Kesehatan,160,91,71,Lulus,79,2023-12-30,2024-01-19,21,2023,December
+PART-00468,Dr. Ega Ramadan,Kesehatan,40,82,100,Lulus,77,2024-01-26,2024-01-31,6,2024,January
+PART-00469,Lintang Mangunsong,Pertanian,40,88,56,Tidak Lulus,50,2024-02-23,2024-02-28,6,2024,February
+PART-00470,"Drs. Tami Nuraini, M.Pd",Tataboga,240,86,59,Tidak Lulus,60,2024-11-05,2024-12-05,31,2024,November
+PART-00471,"H. Tomi Adriansyah, S.Farm",Teknologi Informasi,160,81,99,Lulus,93,2025-09-23,2025-10-13,21,2025,September
+PART-00472,Salwa Kuswandari,Desain Grafis,40,96,86,Lulus,85,2025-03-25,2025-03-30,6,2025,March
+PART-00473,Vivi Uyainah,Desain Grafis,160,81,80,Lulus,97,2024-03-07,2024-03-27,21,2024,March
+PART-00474,Gamanto Anggriawan,Teknologi Informasi,80,70,70,Tidak Lulus,55,2025-09-08,2025-09-18,11,2025,September
+PART-00475,Tgk. Kamila Wibowo,Pariwisata,40,96,70,Lulus,75,2024-05-15,2024-05-20,6,2024,May
+PART-00476,"Tgk. Yessi Laksita, S.Farm",Kesehatan,200,99,78,Lulus,98,2025-04-16,2025-05-11,26,2025,April
+PART-00477,Suci Hardiansyah,Konstruksi,240,93,56,Tidak Lulus,59,2023-11-09,2023-12-09,31,2023,November
+PART-00478,Martaka Putra,Tataboga,240,86,65,Tidak Lulus,53,2025-06-07,2025-07-07,31,2025,June
+PART-00479,Restu Sinaga,Tataboga,200,83,80,Lulus,96,2025-03-13,2025-04-07,26,2025,March
+PART-00480,Dian Sihombing,Kesehatan,240,85,50,Tidak Lulus,74,2025-06-14,2025-07-14,31,2025,June
+PART-00481,"Dr. Kusuma Maheswara, S.Pd",Pertanian,120,86,79,Lulus,85,2024-01-26,2024-02-10,16,2024,January
+PART-00482,Kariman Nuraini,Pertanian,40,83,60,Tidak Lulus,61,2025-02-03,2025-02-08,6,2025,February
+PART-00483,Tugiman Usada,Pertanian,200,84,81,Lulus,98,2024-08-08,2024-09-02,26,2024,August
+PART-00484,"Hj. Uli Najmudin, M.Kom.",Kesehatan,200,89,57,Tidak Lulus,63,2023-12-01,2023-12-26,26,2023,December
+PART-00485,"Dr. Kadir Saptono, M.Ak",Desain Grafis,80,88,54,Tidak Lulus,72,2024-02-04,2024-02-14,11,2024,February
+PART-00486,Ida Purnawati,Pertanian,160,75,97,Tidak Lulus,70,2025-06-18,2025-07-08,21,2025,June
+PART-00487,Vino Santoso,Manufaktur,120,86,62,Tidak Lulus,52,2025-01-29,2025-02-13,16,2025,January
+PART-00488,"dr. Icha Siregar, S.Sos",Desain Grafis,200,84,99,Lulus,75,2025-11-05,2025-11-30,26,2025,November
+PART-00489,"Queen Budiman, S.Sos",Desain Grafis,120,92,49,Tidak Lulus,67,2024-12-05,2024-12-20,16,2024,December
+PART-00490,Ir. Wasis Hutasoit,Desain Grafis,120,94,54,Tidak Lulus,55,2024-09-23,2024-10-08,16,2024,September
+PART-00491,Hana Ardianto,Pariwisata,200,94,59,Tidak Lulus,50,2024-03-02,2024-03-27,26,2024,March
+PART-00492,Bahuwirya Utami,Teknologi Informasi,240,87,86,Lulus,99,2024-01-05,2024-02-04,31,2024,January
+PART-00493,Endah Prabowo,Teknologi Informasi,160,92,84,Lulus,83,2025-10-04,2025-10-24,21,2025,October
+PART-00494,"Drs. Siti Siregar, S.E.I",Pariwisata,120,74,83,Tidak Lulus,57,2024-12-19,2025-01-03,16,2024,December
+PART-00495,Drs. Yuni Firgantoro,Tataboga,160,76,93,Tidak Lulus,59,2025-01-30,2025-02-19,21,2025,January
+PART-00496,"Puti Dina Mardhiyah, M.M.",Kesehatan,160,79,98,Tidak Lulus,73,2025-04-04,2025-04-24,21,2025,April
+PART-00497,Mahesa Susanti,Pertanian,200,98,70,Lulus,99,2024-05-26,2024-06-20,26,2024,May
+PART-00498,"Amelia Natsir, S.Farm",Manufaktur,80,89,50,Tidak Lulus,68,2025-09-07,2025-09-17,11,2025,September
+PART-00499,Olivia Maulana,Pertanian,160,71,71,Tidak Lulus,58,2025-01-17,2025-02-06,21,2025,January
+PART-00500,"R. Farah Nugroho, S.E.",Desain Grafis,80,70,46,Tidak Lulus,62,2024-01-15,2024-01-25,11,2024,January
+PART-00501,"dr. Luwes Wibisono, S.Farm",Desain Grafis,240,95,61,Tidak Lulus,74,2025-09-03,2025-10-03,31,2025,September
+PART-00502,"Laras Purnawati, M.Farm",Pertanian,120,96,59,Tidak Lulus,59,2024-01-23,2024-02-07,16,2024,January
+PART-00503,"Ir. Jaga Situmorang, S.Farm",Teknologi Informasi,160,78,72,Tidak Lulus,62,2024-03-19,2024-04-08,21,2024,March
+PART-00504,Raditya Prastuti,Pariwisata,40,99,92,Lulus,77,2024-09-21,2024-09-26,6,2024,September
+PART-00505,Agnes Prasetya,Pariwisata,80,73,50,Tidak Lulus,63,2024-08-14,2024-08-24,11,2024,August
+PART-00506,Alika Siregar,Tataboga,40,86,55,Tidak Lulus,71,2025-03-14,2025-03-19,6,2025,March
+PART-00507,Tiara Mandala,Pariwisata,200,92,65,Tidak Lulus,54,2024-10-27,2024-11-21,26,2024,October
+PART-00508,"Rahmi Hidayanto, S.T.",Desain Grafis,240,75,74,Tidak Lulus,54,2023-12-03,2024-01-02,31,2023,December
+PART-00509,Iriana Nugroho,Pertanian,80,94,78,Lulus,88,2025-05-23,2025-06-02,11,2025,May
+PART-00510,Widya Pertiwi,Konstruksi,40,89,98,Lulus,81,2025-02-25,2025-03-02,6,2025,February
+PART-00511,Puti Rika Marbun,Tataboga,40,85,85,Lulus,85,2024-04-23,2024-04-28,6,2024,April
+PART-00512,"T. Himawan Rahimah, M.Pd",Pertanian,40,87,68,Tidak Lulus,66,2025-10-25,2025-10-30,6,2025,October
+PART-00513,Patricia Handayani,Teknologi Informasi,200,100,93,Lulus,76,2025-08-04,2025-08-29,26,2025,August
+PART-00514,Zahra Saptono,Konstruksi,160,75,76,Tidak Lulus,65,2023-11-24,2023-12-14,21,2023,November
+PART-00515,Banawi Maryati,Konstruksi,160,76,72,Tidak Lulus,56,2025-03-11,2025-03-31,21,2025,March
+PART-00516,Maimunah Astuti,Teknologi Informasi,80,78,76,Tidak Lulus,50,2024-11-28,2024-12-08,11,2024,November
+PART-00517,"Vanya Saefullah, S.Psi",Teknologi Informasi,80,77,67,Tidak Lulus,58,2025-10-13,2025-10-23,11,2025,October
+PART-00518,"Fitria Uwais, S.I.Kom",Teknologi Informasi,240,95,99,Lulus,98,2024-01-10,2024-02-09,31,2024,January
+PART-00519,Bella Latupono,Desain Grafis,80,94,60,Tidak Lulus,57,2025-06-25,2025-07-05,11,2025,June
+PART-00520,Yono Adriansyah,Kesehatan,120,81,88,Lulus,80,2025-07-22,2025-08-06,16,2025,July
+PART-00521,Mursinin Mustofa,Pertanian,240,87,80,Lulus,83,2024-12-15,2025-01-14,31,2024,December
+PART-00522,"R.M. Bambang Marbun, S.I.Kom",Pariwisata,160,98,55,Tidak Lulus,56,2023-11-17,2023-12-07,21,2023,November
+PART-00523,Farhunnisa Nashiruddin,Desain Grafis,160,83,73,Lulus,100,2024-04-25,2024-05-15,21,2024,April
+PART-00524,Taufan Farida,Teknologi Informasi,240,86,98,Lulus,99,2025-07-07,2025-08-06,31,2025,July
+PART-00525,Indah Wasita,Desain Grafis,40,70,99,Tidak Lulus,50,2025-09-20,2025-09-25,6,2025,September
+PART-00526,"Sutan Hasim Puspita, S.Sos",Manufaktur,240,87,66,Tidak Lulus,66,2024-01-24,2024-02-23,31,2024,January
+PART-00527,Najwa Astuti,Manufaktur,240,86,61,Tidak Lulus,67,2024-06-17,2024-07-17,31,2024,June
+PART-00528,Akarsana Permata,Pariwisata,120,74,82,Tidak Lulus,50,2025-03-28,2025-04-12,16,2025,March
+PART-00529,Yuni Mulyani,Desain Grafis,40,97,47,Tidak Lulus,55,2024-08-28,2024-09-02,6,2024,August
+PART-00530,Lidya Tampubolon,Teknologi Informasi,120,72,86,Tidak Lulus,65,2024-09-25,2024-10-10,16,2024,September
+PART-00531,"Cut Betania Kuswandari, M.M.",Kesehatan,120,73,86,Tidak Lulus,69,2023-11-29,2023-12-14,16,2023,November
+PART-00532,Raisa Natsir,Manufaktur,80,75,100,Tidak Lulus,70,2025-07-09,2025-07-19,11,2025,July
+PART-00533,Hardi Suwarno,Tataboga,160,81,68,Tidak Lulus,71,2024-03-23,2024-04-12,21,2024,March
+PART-00534,Ir. Salsabila Marbun,Tataboga,160,88,80,Lulus,82,2025-02-24,2025-03-16,21,2025,February
+PART-00535,"Anom Putra, S.Gz",Pertanian,80,98,64,Tidak Lulus,73,2025-07-30,2025-08-09,11,2025,July
+PART-00536,Puti Shania Yuniar,Teknologi Informasi,120,74,96,Tidak Lulus,55,2023-11-13,2023-11-28,16,2023,November
+PART-00537,Raihan Mulyani,Kesehatan,240,83,48,Tidak Lulus,71,2025-01-11,2025-02-10,31,2025,January
+PART-00538,Tomi Sitompul,Konstruksi,240,71,52,Tidak Lulus,65,2025-04-09,2025-05-09,31,2025,April
+PART-00539,Zamira Manullang,Tataboga,80,96,74,Lulus,89,2025-01-25,2025-02-04,11,2025,January
+PART-00540,"Dt. Kasusra Putra, S.Pt",Kesehatan,240,97,63,Tidak Lulus,52,2025-02-18,2025-03-20,31,2025,February
+PART-00541,Bakti Waluyo,Konstruksi,40,73,67,Tidak Lulus,72,2024-12-08,2024-12-13,6,2024,December
+PART-00542,dr. Salsabila Palastri,Konstruksi,80,74,85,Tidak Lulus,65,2025-07-25,2025-08-04,11,2025,July
+PART-00543,Elon Prasasta,Manufaktur,240,100,93,Lulus,81,2025-02-06,2025-03-08,31,2025,February
+PART-00544,Latif Yulianti,Manufaktur,40,79,100,Tidak Lulus,71,2024-06-10,2024-06-15,6,2024,June
+PART-00545,R. Sabrina Waluyo,Kesehatan,200,88,96,Lulus,93,2025-09-02,2025-09-27,26,2025,September
+PART-00546,"dr. Taswir Suryono, S.E.",Pertanian,160,77,74,Tidak Lulus,67,2025-10-11,2025-10-31,21,2025,October
+PART-00547,"R.A. Eli Laksita, M.Ak",Desain Grafis,200,96,73,Lulus,98,2024-11-13,2024-12-08,26,2024,November
+PART-00548,Jarwa Saputra,Pariwisata,160,73,75,Tidak Lulus,64,2024-08-29,2024-09-18,21,2024,August
+PART-00549,Prabowo Siregar,Desain Grafis,240,70,90,Tidak Lulus,62,2025-05-10,2025-06-09,31,2025,May
+PART-00550,Halima Sirait,Teknologi Informasi,40,72,69,Tidak Lulus,53,2024-12-15,2024-12-20,6,2024,December
+PART-00551,Ade Anggriawan,Manufaktur,200,81,50,Tidak Lulus,54,2025-02-04,2025-03-01,26,2025,February
+PART-00552,Ulva Prasetya,Teknologi Informasi,200,80,90,Lulus,84,2024-06-14,2024-07-09,26,2024,June
+PART-00553,Julia Waskita,Konstruksi,200,85,86,Lulus,93,2024-07-28,2024-08-22,26,2024,July
+PART-00554,Eli Astuti,Pertanian,240,76,59,Tidak Lulus,54,2024-11-29,2024-12-29,31,2024,November
+PART-00555,Zelda Prasasta,Pariwisata,40,80,79,Lulus,97,2024-01-23,2024-01-28,6,2024,January
+PART-00556,"Tami Ramadan, S.Pt",Desain Grafis,200,90,91,Lulus,96,2025-09-03,2025-09-28,26,2025,September
+PART-00557,Shania Pudjiastuti,Pariwisata,240,94,93,Lulus,80,2025-04-12,2025-05-12,31,2025,April
+PART-00558,Citra Astuti,Kesehatan,240,100,76,Lulus,84,2025-08-07,2025-09-06,31,2025,August
+PART-00559,Bahuraksa Yolanda,Manufaktur,240,70,45,Tidak Lulus,59,2024-09-09,2024-10-09,31,2024,September
+PART-00560,Drs. Jamalia Prastuti,Manufaktur,120,97,92,Lulus,83,2024-04-29,2024-05-14,16,2024,April
+PART-00561,Eli Pangestu,Tataboga,120,80,55,Tidak Lulus,74,2024-08-28,2024-09-12,16,2024,August
+PART-00562,Laras Mayasari,Pariwisata,200,86,81,Lulus,88,2024-10-09,2024-11-03,26,2024,October
+PART-00563,Jessica Siregar,Pertanian,80,89,73,Lulus,84,2024-03-04,2024-03-14,11,2024,March
+PART-00564,"Dewi Natsir, S.Psi",Pertanian,40,93,96,Lulus,89,2025-05-03,2025-05-08,6,2025,May
+PART-00565,Halim Sitorus,Teknologi Informasi,80,70,82,Tidak Lulus,50,2023-12-10,2023-12-20,11,2023,December
+PART-00566,"Ellis Nasyiah, M.Pd",Pertanian,120,99,65,Tidak Lulus,62,2024-05-06,2024-05-21,16,2024,May
+PART-00567,Rafid Hutapea,Teknologi Informasi,80,85,47,Tidak Lulus,57,2024-12-31,2025-01-10,11,2024,December
+PART-00568,Lidya Habibi,Tataboga,240,88,60,Tidak Lulus,52,2025-05-26,2025-06-25,31,2025,May
+PART-00569,Padmi Salahudin,Manufaktur,160,87,85,Lulus,77,2023-11-25,2023-12-15,21,2023,November
+PART-00570,Kasiyah Siregar,Pariwisata,40,82,79,Lulus,86,2024-04-16,2024-04-21,6,2024,April
+PART-00571,Prakosa Nuraini,Pertanian,160,84,100,Lulus,77,2025-01-02,2025-01-22,21,2025,January
+PART-00572,Ozy Prakasa,Manufaktur,80,93,48,Tidak Lulus,61,2025-08-25,2025-09-04,11,2025,August
+PART-00573,"Aris Nurdiyanti, S.Pt",Kesehatan,200,89,54,Tidak Lulus,50,2024-01-20,2024-02-14,26,2024,January
+PART-00574,Gawati Marpaung,Pariwisata,160,87,45,Tidak Lulus,71,2024-09-30,2024-10-20,21,2024,September
+PART-00575,Cawuk Purnawati,Konstruksi,200,87,97,Lulus,84,2024-03-08,2024-04-02,26,2024,March
+PART-00576,Jasmani Nasyiah,Konstruksi,120,81,70,Lulus,76,2025-06-22,2025-07-07,16,2025,June
+PART-00577,"Ir. Prabawa Zulkarnain, S.Gz",Kesehatan,200,91,95,Lulus,89,2024-04-23,2024-05-18,26,2024,April
+PART-00578,"Gilda Januar, M.M.",Desain Grafis,160,86,60,Tidak Lulus,65,2024-01-13,2024-02-02,21,2024,January
+PART-00579,"Ir. Kartika Simanjuntak, S.Psi",Kesehatan,240,97,70,Lulus,79,2024-03-20,2024-04-19,31,2024,March
+PART-00580,Janet Melani,Konstruksi,200,84,63,Tidak Lulus,67,2024-10-29,2024-11-23,26,2024,October
+PART-00581,Lala Mandala,Kesehatan,80,90,91,Lulus,84,2025-01-23,2025-02-02,11,2025,January
+PART-00582,"Dr. Rusman Nainggolan, S.IP",Desain Grafis,40,87,80,Lulus,89,2025-04-17,2025-04-22,6,2025,April
+PART-00583,"Tgk. Galih Prasasta, S.T.",Desain Grafis,160,84,59,Tidak Lulus,56,2025-11-03,2025-11-23,21,2025,November
+PART-00584,Rachel Puspasari,Desain Grafis,80,85,90,Lulus,98,2024-02-23,2024-03-04,11,2024,February
+PART-00585,Balangga Saefullah,Pariwisata,80,95,46,Tidak Lulus,62,2025-08-13,2025-08-23,11,2025,August
+PART-00586,"Victoria Setiawan, M.Kom.",Manufaktur,40,96,93,Lulus,96,2023-12-02,2023-12-07,6,2023,December
+PART-00587,"dr. Viktor Siregar, S.E.I",Desain Grafis,200,95,100,Lulus,92,2024-10-14,2024-11-08,26,2024,October
+PART-00588,Purwadi Laksita,Teknologi Informasi,40,84,92,Lulus,90,2024-10-24,2024-10-29,6,2024,October
+PART-00589,Irma Pudjiastuti,Desain Grafis,120,94,76,Lulus,90,2024-11-19,2024-12-04,16,2024,November
+PART-00590,"R. Maria Sitorus, S.Gz",Desain Grafis,80,99,52,Tidak Lulus,50,2025-09-19,2025-09-29,11,2025,September
+PART-00591,Febi Maheswara,Tataboga,40,78,72,Tidak Lulus,66,2024-11-27,2024-12-02,6,2024,November
+PART-00592,Azalea Mulyani,Tataboga,80,94,99,Lulus,81,2025-08-24,2025-09-03,11,2025,August
+PART-00593,Shakila Manullang,Tataboga,240,81,88,Lulus,82,2024-02-15,2024-03-16,31,2024,February
+PART-00594,Kardi Megantara,Konstruksi,240,99,88,Lulus,92,2025-06-22,2025-07-22,31,2025,June
+PART-00595,Martani Rajata,Desain Grafis,160,72,51,Tidak Lulus,61,2024-10-26,2024-11-15,21,2024,October
+PART-00596,Indah Mustofa,Desain Grafis,160,88,49,Tidak Lulus,61,2025-04-16,2025-05-06,21,2025,April
+PART-00597,"Sutan Gaman Usada, S.E.I",Kesehatan,40,73,68,Tidak Lulus,74,2025-03-14,2025-03-19,6,2025,March
+PART-00598,"Ir. Dimaz Kuswoyo, S.Farm",Konstruksi,80,98,57,Tidak Lulus,69,2023-11-17,2023-11-27,11,2023,November
+PART-00599,Hesti Natsir,Teknologi Informasi,80,96,100,Lulus,83,2024-02-20,2024-03-01,11,2024,February
+PART-00600,Kalim Prayoga,Teknologi Informasi,160,89,57,Tidak Lulus,58,2024-01-27,2024-02-16,21,2024,January
+PART-00601,Vanesa Wahyuni,Kesehatan,200,93,86,Lulus,75,2024-05-21,2024-06-15,26,2024,May
+PART-00602,Latika Usada,Tataboga,160,85,87,Lulus,89,2025-01-06,2025-01-26,21,2025,January
+PART-00603,"Dr. Wahyu Lazuardi, S.E.",Kesehatan,240,80,55,Tidak Lulus,68,2025-01-26,2025-02-25,31,2025,January
+PART-00604,Najib Thamrin,Tataboga,40,88,56,Tidak Lulus,59,2024-02-05,2024-02-10,6,2024,February
+PART-00605,"R. Siska Santoso, S.IP",Desain Grafis,240,97,63,Tidak Lulus,64,2024-09-21,2024-10-21,31,2024,September
+PART-00606,"Drs. Farah Haryanti, S.Sos",Pertanian,240,82,91,Lulus,97,2024-07-03,2024-08-02,31,2024,July
+PART-00607,Tari Marpaung,Manufaktur,40,75,65,Tidak Lulus,52,2024-07-17,2024-07-22,6,2024,July
+PART-00608,Maida Sihombing,Teknologi Informasi,160,76,49,Tidak Lulus,58,2023-11-15,2023-12-05,21,2023,November
+PART-00609,"Drs. Maman Marpaung, S.Kom",Tataboga,200,91,89,Lulus,97,2025-02-04,2025-03-01,26,2025,February
+PART-00610,Salsabila Saragih,Pariwisata,200,82,62,Tidak Lulus,53,2025-05-10,2025-06-04,26,2025,May
+PART-00611,Ajimat Laksita,Desain Grafis,120,95,90,Lulus,79,2024-10-05,2024-10-20,16,2024,October
+PART-00612,Drs. Yunita Kuswoyo,Desain Grafis,200,94,100,Lulus,86,2024-07-27,2024-08-21,26,2024,July
+PART-00613,"Hj. Titi Samosir, S.I.Kom",Desain Grafis,80,84,54,Tidak Lulus,70,2025-05-02,2025-05-12,11,2025,May
+PART-00614,H. Kemal Budiman,Pertanian,120,86,67,Tidak Lulus,72,2024-05-16,2024-05-31,16,2024,May
+PART-00615,Widya Prabowo,Konstruksi,240,92,79,Lulus,76,2024-05-07,2024-06-06,31,2024,May
+PART-00616,Eli Yuniar,Konstruksi,160,81,78,Lulus,82,2024-09-17,2024-10-07,21,2024,September
+PART-00617,Pranata Aryani,Tataboga,160,85,63,Tidak Lulus,65,2024-07-15,2024-08-04,21,2024,July
+PART-00618,Jail Maryati,Pariwisata,80,97,87,Lulus,92,2024-11-15,2024-11-25,11,2024,November
+PART-00619,Jinawi Wacana,Pertanian,240,87,90,Lulus,87,2024-06-29,2024-07-29,31,2024,June
+PART-00620,Okta Pertiwi,Tataboga,200,75,75,Tidak Lulus,66,2024-01-02,2024-01-27,26,2024,January
+PART-00621,Purwanto Puspita,Teknologi Informasi,240,100,49,Tidak Lulus,56,2025-10-18,2025-11-17,31,2025,October
+PART-00622,"Jessica Hutapea, S.Kom",Desain Grafis,40,91,52,Tidak Lulus,53,2024-10-13,2024-10-18,6,2024,October
+PART-00623,Kambali Putra,Tataboga,200,70,65,Tidak Lulus,54,2024-06-24,2024-07-19,26,2024,June
+PART-00624,"R.A. Cinta Januar, M.Pd",Tataboga,80,92,83,Lulus,90,2023-12-16,2023-12-26,11,2023,December
+PART-00625,Darman Winarsih,Desain Grafis,120,91,85,Lulus,86,2024-06-18,2024-07-03,16,2024,June
+PART-00626,"Cut Nilam Aryani, S.Kom",Pertanian,120,71,79,Tidak Lulus,57,2024-08-09,2024-08-24,16,2024,August
+PART-00627,"Dr. Paris Purnawati, S.IP",Manufaktur,120,94,47,Tidak Lulus,62,2025-03-18,2025-04-02,16,2025,March
+PART-00628,Michelle Wacana,Desain Grafis,40,73,79,Tidak Lulus,70,2025-10-25,2025-10-30,6,2025,October
+PART-00629,"Embuh Gunarto, S.Kom",Tataboga,120,70,48,Tidak Lulus,53,2025-03-20,2025-04-04,16,2025,March
+PART-00630,"Puti Yance Prasasta, S.Gz",Pariwisata,80,81,60,Tidak Lulus,54,2025-11-04,2025-11-14,11,2025,November
+PART-00631,"Kala Siregar, S.E.",Pariwisata,40,88,93,Lulus,86,2025-05-06,2025-05-11,6,2025,May
+PART-00632,"Hj. Juli Budiman, S.Pd",Manufaktur,200,78,100,Tidak Lulus,71,2024-04-14,2024-05-09,26,2024,April
+PART-00633,Kenes Mangunsong,Pariwisata,200,79,54,Tidak Lulus,58,2024-10-31,2024-11-25,26,2024,October
+PART-00634,"Artanto Damanik, S.Pt",Manufaktur,40,91,56,Tidak Lulus,71,2024-07-04,2024-07-09,6,2024,July
+PART-00635,"drg. Elma Suwarno, S.H.",Kesehatan,160,72,77,Tidak Lulus,68,2025-06-20,2025-07-10,21,2025,June
+PART-00636,Satya Tampubolon,Pertanian,160,94,46,Tidak Lulus,70,2025-02-28,2025-03-20,21,2025,February
+PART-00637,dr. Talia Iswahyudi,Pertanian,200,82,99,Lulus,76,2024-01-18,2024-02-12,26,2024,January
+PART-00638,"Jamalia Pudjiastuti, S.T.",Desain Grafis,160,86,87,Lulus,97,2025-03-24,2025-04-13,21,2025,March
+PART-00639,Tgk. Sarah Wasita,Kesehatan,240,87,49,Tidak Lulus,55,2025-04-07,2025-05-07,31,2025,April
+PART-00640,"Puspa Marbun, S.Gz",Kesehatan,80,97,92,Lulus,78,2023-12-04,2023-12-14,11,2023,December
+PART-00641,"Sutan Darsirah Hutagalung, M.Farm",Tataboga,160,73,57,Tidak Lulus,60,2024-02-11,2024-03-02,21,2024,February
+PART-00642,Harjo Nuraini,Kesehatan,200,88,87,Lulus,82,2024-05-23,2024-06-17,26,2024,May
+PART-00643,"Tgk. Kayla Padmasari, S.E.I",Manufaktur,160,96,95,Lulus,85,2024-10-02,2024-10-22,21,2024,October
+PART-00644,Iriana Lailasari,Konstruksi,80,70,81,Tidak Lulus,72,2024-07-17,2024-07-27,11,2024,July
+PART-00645,Prasetya Sihombing,Pertanian,80,81,96,Lulus,99,2025-02-15,2025-02-25,11,2025,February
+PART-00646,Nilam Hutagalung,Tataboga,120,85,45,Tidak Lulus,61,2024-04-20,2024-05-05,16,2024,April
+PART-00647,Anita Mardhiyah,Tataboga,120,82,58,Tidak Lulus,72,2024-07-18,2024-08-02,16,2024,July
+PART-00648,Kani Setiawan,Tataboga,240,92,86,Lulus,81,2024-08-31,2024-09-30,31,2024,August
+PART-00649,Nyana Farida,Pariwisata,200,97,71,Lulus,89,2025-09-26,2025-10-21,26,2025,September
+PART-00650,Maryanto Waluyo,Pertanian,160,94,85,Lulus,86,2025-08-08,2025-08-28,21,2025,August
+PART-00651,dr. Raden Budiman,Desain Grafis,80,89,46,Tidak Lulus,67,2025-06-17,2025-06-27,11,2025,June
+PART-00652,"Ir. Maryanto Wulandari, S.T.",Tataboga,160,72,77,Tidak Lulus,69,2025-10-14,2025-11-03,21,2025,October
+PART-00653,Dt. Elvin Mandala,Tataboga,120,70,63,Tidak Lulus,51,2024-12-25,2025-01-09,16,2024,December
+PART-00654,Jessica Nugroho,Konstruksi,40,89,78,Lulus,86,2023-11-09,2023-11-14,6,2023,November
+PART-00655,Sutan Darmaji Halim,Pertanian,240,79,68,Tidak Lulus,55,2024-11-18,2024-12-18,31,2024,November
+PART-00656,"Ida Samosir, S.IP",Konstruksi,200,82,99,Lulus,95,2025-07-19,2025-08-13,26,2025,July
+PART-00657,Harsanto Suwarno,Pariwisata,80,84,45,Tidak Lulus,66,2025-03-19,2025-03-29,11,2025,March
+PART-00658,Julia Simbolon,Tataboga,160,79,86,Tidak Lulus,59,2023-11-27,2023-12-17,21,2023,November
+PART-00659,"KH. Usman Latupono, S.E.",Pertanian,80,73,96,Tidak Lulus,58,2024-11-20,2024-11-30,11,2024,November
+PART-00660,Bakiman Maryadi,Tataboga,40,78,69,Tidak Lulus,68,2024-05-21,2024-05-26,6,2024,May
+PART-00661,"Edward Laksmiwati, S.IP",Pertanian,160,87,96,Lulus,98,2025-01-08,2025-01-28,21,2025,January
+PART-00662,Irsad Melani,Kesehatan,40,82,49,Tidak Lulus,72,2024-03-09,2024-03-14,6,2024,March
+PART-00663,Tina Yuniar,Manufaktur,80,96,58,Tidak Lulus,70,2025-02-11,2025-02-21,11,2025,February
+PART-00664,"Rahmi Yuliarti, S.E.I",Pertanian,120,70,47,Tidak Lulus,59,2023-11-13,2023-11-28,16,2023,November
+PART-00665,Gading Thamrin,Manufaktur,40,86,89,Lulus,89,2023-12-08,2023-12-13,6,2023,December
+PART-00666,Mustika Rahayu,Konstruksi,240,70,84,Tidak Lulus,54,2025-03-06,2025-04-05,31,2025,March
+PART-00667,"dr. Zelda Fujiati, S.Pd",Kesehatan,120,71,65,Tidak Lulus,53,2025-03-08,2025-03-23,16,2025,March
+PART-00668,Vivi Astuti,Desain Grafis,160,94,53,Tidak Lulus,74,2025-07-18,2025-08-07,21,2025,July
+PART-00669,dr. Nilam Latupono,Manufaktur,40,98,51,Tidak Lulus,55,2024-05-04,2024-05-09,6,2024,May
+PART-00670,"H. Daniswara Rahmawati, M.Kom.",Pertanian,80,80,91,Lulus,76,2023-12-23,2024-01-02,11,2023,December
+PART-00671,"Balidin Nurdiyanti, S.Farm",Kesehatan,160,82,89,Lulus,78,2024-08-22,2024-09-11,21,2024,August
+PART-00672,Makara Kurniawan,Tataboga,80,77,88,Tidak Lulus,66,2025-08-24,2025-09-03,11,2025,August
+PART-00673,Chelsea Suryono,Kesehatan,160,74,66,Tidak Lulus,70,2024-08-30,2024-09-19,21,2024,August
+PART-00674,Ella Putra,Konstruksi,160,74,88,Tidak Lulus,69,2025-04-21,2025-05-11,21,2025,April
+PART-00675,Juli Yulianti,Pertanian,120,92,81,Lulus,87,2024-02-13,2024-02-28,16,2024,February
+PART-00676,Ade Pertiwi,Pertanian,200,72,98,Tidak Lulus,65,2023-12-04,2023-12-29,26,2023,December
+PART-00677,"Darimin Kuswandari, S.I.Kom",Desain Grafis,80,72,83,Tidak Lulus,68,2025-01-25,2025-02-04,11,2025,January
+PART-00678,Cawuk Maryadi,Desain Grafis,40,91,56,Tidak Lulus,52,2025-07-16,2025-07-21,6,2025,July
+PART-00679,Kartika Pratiwi,Teknologi Informasi,240,91,95,Lulus,86,2024-04-22,2024-05-22,31,2024,April
+PART-00680,Sabrina Wasita,Konstruksi,240,82,63,Tidak Lulus,67,2024-01-20,2024-02-19,31,2024,January
+PART-00681,drg. Mursinin Tamba,Pertanian,200,99,72,Lulus,95,2024-11-03,2024-11-28,26,2024,November
+PART-00682,"Ifa Yulianti, S.Pd",Desain Grafis,200,84,79,Lulus,92,2025-01-12,2025-02-06,26,2025,January
+PART-00683,"Drs. Hesti Nasyidah, S.Kom",Manufaktur,40,82,86,Lulus,93,2024-08-31,2024-09-05,6,2024,August
+PART-00684,Hamzah Hardiansyah,Tataboga,240,94,55,Tidak Lulus,52,2024-05-11,2024-06-10,31,2024,May
+PART-00685,Vanesa Siregar,Teknologi Informasi,200,70,47,Tidak Lulus,57,2025-09-28,2025-10-23,26,2025,September
+PART-00686,Silvia Pratiwi,Konstruksi,160,93,56,Tidak Lulus,64,2024-04-30,2024-05-20,21,2024,April
+PART-00687,Citra Hassanah,Pertanian,120,92,51,Tidak Lulus,54,2023-11-15,2023-11-30,16,2023,November
+PART-00688,Lidya Nainggolan,Tataboga,160,90,90,Lulus,83,2024-10-23,2024-11-12,21,2024,October
+PART-00689,Dinda Maheswara,Teknologi Informasi,240,79,62,Tidak Lulus,74,2024-06-10,2024-07-10,31,2024,June
+PART-00690,"Rahmi Yolanda, M.M.",Pariwisata,40,74,91,Tidak Lulus,70,2025-07-21,2025-07-26,6,2025,July
+PART-00691,Empluk Yuniar,Manufaktur,240,76,86,Tidak Lulus,50,2024-07-07,2024-08-06,31,2024,July
+PART-00692,"Tgk. Zamira Mayasari, S.Ked",Teknologi Informasi,200,92,70,Lulus,80,2023-11-25,2023-12-20,26,2023,November
+PART-00693,Puti Rachel Anggraini,Pariwisata,200,77,82,Tidak Lulus,51,2025-05-21,2025-06-15,26,2025,May
+PART-00694,"dr. Raisa Hakim, S.Pt",Kesehatan,240,100,64,Tidak Lulus,65,2025-05-07,2025-06-06,31,2025,May
+PART-00695,"Naradi Hutagalung, S.I.Kom",Desain Grafis,120,71,97,Tidak Lulus,56,2024-08-02,2024-08-17,16,2024,August
+PART-00696,Karen Kuswoyo,Teknologi Informasi,200,85,67,Tidak Lulus,64,2025-02-14,2025-03-11,26,2025,February
+PART-00697,"drg. Umi Rahimah, S.Pd",Tataboga,80,91,59,Tidak Lulus,66,2024-11-02,2024-11-12,11,2024,November
+PART-00698,Iriana Wasita,Konstruksi,120,72,100,Tidak Lulus,50,2024-07-03,2024-07-18,16,2024,July
+PART-00699,Jindra Rahimah,Kesehatan,240,79,70,Tidak Lulus,72,2024-01-18,2024-02-17,31,2024,January
+PART-00700,Septi Susanti,Pariwisata,40,89,63,Tidak Lulus,64,2024-04-16,2024-04-21,6,2024,April
+PART-00701,Nurul Puspasari,Kesehatan,160,86,50,Tidak Lulus,62,2023-12-01,2023-12-21,21,2023,December
+PART-00702,"Dr. Hamima Wahyudin, M.Pd",Konstruksi,120,88,79,Lulus,86,2024-01-07,2024-01-22,16,2024,January
+PART-00703,Widya Suryatmi,Kesehatan,120,78,70,Tidak Lulus,53,2024-06-12,2024-06-27,16,2024,June
+PART-00704,Aswani Dongoran,Desain Grafis,80,93,89,Lulus,76,2024-08-30,2024-09-09,11,2024,August
+PART-00705,Latika Najmudin,Pertanian,40,90,97,Lulus,88,2025-02-27,2025-03-04,6,2025,February
+PART-00706,Putri Januar,Manufaktur,240,71,97,Tidak Lulus,67,2023-11-13,2023-12-13,31,2023,November
+PART-00707,Tami Setiawan,Pertanian,40,91,71,Lulus,100,2025-10-11,2025-10-16,6,2025,October
+PART-00708,Farhunnisa Wijaya,Tataboga,80,97,60,Tidak Lulus,72,2023-12-23,2024-01-02,11,2023,December
+PART-00709,"Dt. Mulyono Hasanah, S.Kom",Desain Grafis,200,98,53,Tidak Lulus,63,2025-10-08,2025-11-02,26,2025,October
+PART-00710,Sutan Yosef Narpati,Tataboga,40,88,83,Lulus,93,2024-10-18,2024-10-23,6,2024,October
+PART-00711,Bakidin Yuliarti,Desain Grafis,80,91,78,Lulus,82,2024-04-07,2024-04-17,11,2024,April
+PART-00712,Rangga Hastuti,Pariwisata,120,71,47,Tidak Lulus,63,2025-09-20,2025-10-05,16,2025,September
+PART-00713,Humaira Permadi,Pariwisata,120,95,94,Lulus,86,2024-11-06,2024-11-21,16,2024,November
+PART-00714,Uda Puspita,Teknologi Informasi,200,94,78,Lulus,94,2024-04-23,2024-05-18,26,2024,April
+PART-00715,Sadina Rahayu,Kesehatan,40,81,58,Tidak Lulus,58,2024-05-24,2024-05-29,6,2024,May
+PART-00716,Edi Saefullah,Tataboga,160,81,68,Tidak Lulus,61,2025-06-25,2025-07-15,21,2025,June
+PART-00717,"Dr. Vivi Gunarto, S.Farm",Manufaktur,40,90,59,Tidak Lulus,65,2025-07-12,2025-07-17,6,2025,July
+PART-00718,Kamila Hidayanto,Manufaktur,240,97,54,Tidak Lulus,69,2025-03-05,2025-04-04,31,2025,March
+PART-00719,Bambang Hartati,Teknologi Informasi,120,86,47,Tidak Lulus,72,2024-03-01,2024-03-16,16,2024,March
+PART-00720,Kasusra Purnawati,Teknologi Informasi,200,77,77,Tidak Lulus,65,2025-04-11,2025-05-06,26,2025,April
+PART-00721,Nurul Saptono,Desain Grafis,120,77,45,Tidak Lulus,62,2025-07-29,2025-08-13,16,2025,July
+PART-00722,dr. Galak Kusumo,Manufaktur,120,81,53,Tidak Lulus,64,2025-03-25,2025-04-09,16,2025,March
+PART-00723,"Zamira Wastuti, M.Pd",Konstruksi,200,87,71,Lulus,96,2023-12-11,2024-01-05,26,2023,December
+PART-00724,Putu Hutagalung,Teknologi Informasi,80,98,86,Lulus,75,2025-05-31,2025-06-10,11,2025,May
+PART-00725,"Drs. Rahmi Nainggolan, S.Kom",Tataboga,120,79,82,Tidak Lulus,57,2024-02-23,2024-03-09,16,2024,February
+PART-00726,Cengkal Tarihoran,Desain Grafis,80,84,92,Lulus,80,2024-09-29,2024-10-09,11,2024,September
+PART-00727,Cahyo Mardhiyah,Kesehatan,80,70,97,Tidak Lulus,65,2025-03-19,2025-03-29,11,2025,March
+PART-00728,Dr. Suci Narpati,Desain Grafis,40,88,96,Lulus,89,2025-07-15,2025-07-20,6,2025,July
+PART-00729,Tgk. Tasnim Habibi,Konstruksi,120,79,64,Tidak Lulus,66,2024-11-22,2024-12-07,16,2024,November
+PART-00730,"Cut Rini Maryadi, S.E.",Konstruksi,240,96,64,Tidak Lulus,69,2024-10-23,2024-11-22,31,2024,October
+PART-00731,Oliva Thamrin,Konstruksi,240,74,90,Tidak Lulus,55,2024-01-21,2024-02-20,31,2024,January
+PART-00732,"Sutan Cahyanto Setiawan, M.M.",Konstruksi,200,80,80,Lulus,91,2025-07-31,2025-08-25,26,2025,July
+PART-00733,"Jasmin Marbun, S.Gz",Teknologi Informasi,160,75,94,Tidak Lulus,63,2024-10-30,2024-11-19,21,2024,October
+PART-00734,"Cut Puji Sihotang, S.E.",Desain Grafis,40,92,57,Tidak Lulus,58,2024-02-08,2024-02-13,6,2024,February
+PART-00735,Samiah Mustofa,Tataboga,80,77,84,Tidak Lulus,54,2023-12-26,2024-01-05,11,2023,December
+PART-00736,"drg. Shania Puspasari, S.Gz",Desain Grafis,200,100,53,Tidak Lulus,70,2025-01-19,2025-02-13,26,2025,January
+PART-00737,"Edi Sirait, S.Pt",Desain Grafis,120,76,91,Tidak Lulus,57,2024-06-20,2024-07-05,16,2024,June
+PART-00738,Dwi Fujiati,Desain Grafis,240,87,67,Tidak Lulus,71,2024-01-29,2024-02-28,31,2024,January
+PART-00739,"Calista Rajasa, S.I.Kom",Manufaktur,40,73,83,Tidak Lulus,63,2023-12-25,2023-12-30,6,2023,December
+PART-00740,"Anastasia Tarihoran, S.E.I",Tataboga,120,85,98,Lulus,75,2025-02-25,2025-03-12,16,2025,February
+PART-00741,Lantar Aryani,Manufaktur,240,85,92,Lulus,90,2025-07-28,2025-08-27,31,2025,July
+PART-00742,"Puti Farah Lestari, S.Pd",Teknologi Informasi,40,90,46,Tidak Lulus,56,2024-10-07,2024-10-12,6,2024,October
+PART-00743,"Dariati Mulyani, S.Ked",Manufaktur,120,96,51,Tidak Lulus,54,2024-08-24,2024-09-08,16,2024,August
+PART-00744,Ciaobella Hasanah,Tataboga,160,70,91,Tidak Lulus,65,2025-03-05,2025-03-25,21,2025,March
+PART-00745,Cemplunk Firgantoro,Tataboga,200,81,60,Tidak Lulus,54,2025-06-28,2025-07-23,26,2025,June
+PART-00746,Kania Adriansyah,Pariwisata,120,99,80,Lulus,99,2024-09-22,2024-10-07,16,2024,September
+PART-00747,Drs. Nadine Rahayu,Manufaktur,40,90,82,Lulus,90,2025-02-01,2025-02-06,6,2025,February
+PART-00748,Nadine Purwanti,Teknologi Informasi,40,88,66,Tidak Lulus,70,2025-04-21,2025-04-26,6,2025,April
+PART-00749,"Drs. Aris Oktaviani, S.Farm",Pariwisata,200,92,90,Lulus,77,2024-11-29,2024-12-24,26,2024,November
+PART-00750,Radit Budiyanto,Teknologi Informasi,120,100,100,Lulus,99,2024-05-08,2024-05-23,16,2024,May
+PART-00751,Jane Pradipta,Konstruksi,40,72,86,Tidak Lulus,56,2025-05-07,2025-05-12,6,2025,May
+PART-00752,"Drs. Timbul Mahendra, S.IP",Desain Grafis,120,74,84,Tidak Lulus,59,2025-03-07,2025-03-22,16,2025,March
+PART-00753,Puti Chelsea Rahimah,Pariwisata,160,71,55,Tidak Lulus,64,2023-11-27,2023-12-17,21,2023,November
+PART-00754,Jessica Lestari,Tataboga,120,98,79,Lulus,76,2025-05-03,2025-05-18,16,2025,May
+PART-00755,Jabal Wahyuni,Desain Grafis,80,88,100,Lulus,80,2025-01-21,2025-01-31,11,2025,January
+PART-00756,Darijan Nasyidah,Manufaktur,40,88,58,Tidak Lulus,73,2024-10-01,2024-10-06,6,2024,October
+PART-00757,Titin Saefullah,Pertanian,160,95,65,Tidak Lulus,55,2025-05-24,2025-06-13,21,2025,May
+PART-00758,Bala Putra,Desain Grafis,120,81,61,Tidak Lulus,67,2025-08-07,2025-08-22,16,2025,August
+PART-00759,Heryanto Fujiati,Kesehatan,40,100,81,Lulus,96,2024-07-27,2024-08-01,6,2024,July
+PART-00760,Cahyono Nasyiah,Konstruksi,120,89,88,Lulus,87,2024-05-12,2024-05-27,16,2024,May
+PART-00761,Yulia Maryati,Teknologi Informasi,40,76,46,Tidak Lulus,58,2024-09-12,2024-09-17,6,2024,September
+PART-00762,Daliman Saputra,Manufaktur,200,77,54,Tidak Lulus,65,2025-03-07,2025-04-01,26,2025,March
+PART-00763,drg. Darmana Melani,Kesehatan,40,73,100,Tidak Lulus,61,2025-01-17,2025-01-22,6,2025,January
+PART-00764,Panca Firgantoro,Kesehatan,120,71,53,Tidak Lulus,58,2024-02-05,2024-02-20,16,2024,February
+PART-00765,"Vivi Kurniawan, M.Farm",Manufaktur,240,89,50,Tidak Lulus,53,2025-05-17,2025-06-16,31,2025,May
+PART-00766,Yance Mustofa,Teknologi Informasi,240,81,79,Lulus,86,2025-02-26,2025-03-28,31,2025,February
+PART-00767,"Cut Salwa Hastuti, S.Gz",Desain Grafis,240,73,55,Tidak Lulus,71,2024-05-27,2024-06-26,31,2024,May
+PART-00768,"Lili Hutagalung, M.Ak",Tataboga,240,77,80,Tidak Lulus,64,2025-02-11,2025-03-13,31,2025,February
+PART-00769,"Drs. Oman Prabowo, S.H.",Pariwisata,240,96,62,Tidak Lulus,67,2024-01-08,2024-02-07,31,2024,January
+PART-00770,Banawa Hasanah,Kesehatan,80,85,58,Tidak Lulus,62,2025-04-28,2025-05-08,11,2025,April
+PART-00771,Caturangga Uyainah,Desain Grafis,40,92,94,Lulus,95,2025-07-04,2025-07-09,6,2025,July
+PART-00772,dr. Zaenab Budiyanto,Manufaktur,160,87,63,Tidak Lulus,74,2024-06-06,2024-06-26,21,2024,June
+PART-00773,Raden Laksita,Konstruksi,160,70,46,Tidak Lulus,63,2025-06-29,2025-07-19,21,2025,June
+PART-00774,Aurora Sihombing,Teknologi Informasi,160,83,60,Tidak Lulus,63,2024-11-17,2024-12-07,21,2024,November
+PART-00775,"Hj. Titin Najmudin, M.Kom.",Konstruksi,120,75,60,Tidak Lulus,72,2025-04-07,2025-04-22,16,2025,April
+PART-00776,"Endra Uwais, M.M.",Konstruksi,160,78,94,Tidak Lulus,60,2024-10-04,2024-10-24,21,2024,October
+PART-00777,"Dr. Ega Waluyo, M.Kom.",Konstruksi,80,90,65,Tidak Lulus,66,2024-10-21,2024-10-31,11,2024,October
+PART-00778,H. Hardana Saefullah,Konstruksi,240,96,52,Tidak Lulus,64,2024-10-12,2024-11-11,31,2024,October
+PART-00779,Latika Kusmawati,Kesehatan,200,72,97,Tidak Lulus,70,2025-06-01,2025-06-26,26,2025,June
+PART-00780,Laras Pratama,Konstruksi,80,92,86,Lulus,88,2025-04-30,2025-05-10,11,2025,April
+PART-00781,Rini Utami,Tataboga,200,80,54,Tidak Lulus,74,2025-06-19,2025-07-14,26,2025,June
+PART-00782,R.M. Dodo Nasyiah,Kesehatan,40,80,89,Lulus,85,2024-10-08,2024-10-13,6,2024,October
+PART-00783,Putri Sihotang,Kesehatan,200,85,77,Lulus,87,2025-01-30,2025-02-24,26,2025,January
+PART-00784,Puti Pia Natsir,Pertanian,240,98,83,Lulus,89,2024-06-27,2024-07-27,31,2024,June
+PART-00785,R.A. Kani Latupono,Manufaktur,40,86,77,Lulus,80,2024-10-15,2024-10-20,6,2024,October
+PART-00786,"Cecep Zulaika, S.E.I",Konstruksi,200,78,54,Tidak Lulus,57,2025-06-19,2025-07-14,26,2025,June
+PART-00787,"Ir. Rama Januar, S.IP",Pertanian,240,95,53,Tidak Lulus,61,2025-07-16,2025-08-15,31,2025,July
+PART-00788,Galuh Habibi,Manufaktur,240,87,79,Lulus,81,2024-01-10,2024-02-09,31,2024,January
+PART-00789,Cahyanto Siregar,Konstruksi,80,93,80,Lulus,95,2023-12-24,2024-01-03,11,2023,December
+PART-00790,Martana Dongoran,Konstruksi,120,72,81,Tidak Lulus,71,2024-08-06,2024-08-21,16,2024,August
+PART-00791,drg. Ami Hutasoit,Pariwisata,80,73,71,Tidak Lulus,69,2024-10-19,2024-10-29,11,2024,October
+PART-00792,"Tgk. Danuja Sinaga, S.Pd",Pertanian,80,75,97,Tidak Lulus,71,2025-11-01,2025-11-11,11,2025,November
+PART-00793,Mala Nurdiyanti,Teknologi Informasi,80,79,87,Tidak Lulus,58,2025-03-11,2025-03-21,11,2025,March
+PART-00794,Asmuni Prasetya,Manufaktur,40,84,94,Lulus,86,2025-07-22,2025-07-27,6,2025,July
+PART-00795,Jayadi Puspita,Manufaktur,200,81,83,Lulus,82,2025-01-12,2025-02-06,26,2025,January
+PART-00796,Lasmono Usamah,Tataboga,120,83,70,Lulus,100,2024-05-01,2024-05-16,16,2024,May
+PART-00797,Rahmi Winarsih,Manufaktur,160,89,98,Lulus,98,2025-03-24,2025-04-13,21,2025,March
+PART-00798,Wadi Tarihoran,Kesehatan,80,99,68,Tidak Lulus,61,2024-08-02,2024-08-12,11,2024,August
+PART-00799,"Puti Ellis Januar, S.E.",Pariwisata,200,85,97,Lulus,81,2024-12-02,2024-12-27,26,2024,December
+PART-00800,Citra Lailasari,Pariwisata,40,86,99,Lulus,97,2023-12-01,2023-12-06,6,2023,December
+PART-00801,"KH. Jindra Suwarno, M.Pd",Kesehatan,200,81,72,Lulus,75,2025-06-14,2025-07-09,26,2025,June
+PART-00802,"drg. Azalea Halimah, S.I.Kom",Pariwisata,80,76,96,Tidak Lulus,70,2024-02-17,2024-02-27,11,2024,February
+PART-00803,drg. Hasim Nababan,Desain Grafis,240,86,100,Lulus,82,2025-11-03,2025-12-03,31,2025,November
+PART-00804,"Prabu Natsir, S.Sos",Desain Grafis,80,83,97,Lulus,87,2025-02-20,2025-03-02,11,2025,February
+PART-00805,Rika Rahimah,Pariwisata,200,90,67,Tidak Lulus,54,2024-09-19,2024-10-14,26,2024,September
+PART-00806,"R. Zulaikha Mustofa, S.E.I",Pariwisata,160,88,63,Tidak Lulus,54,2025-07-08,2025-07-28,21,2025,July
+PART-00807,Hilda Wibowo,Tataboga,40,77,70,Tidak Lulus,74,2024-05-04,2024-05-09,6,2024,May
+PART-00808,"Dr. Capa Mulyani, M.Farm",Pariwisata,40,86,95,Lulus,91,2024-07-11,2024-07-16,6,2024,July
+PART-00809,Vivi Namaga,Tataboga,200,85,88,Lulus,75,2023-12-02,2023-12-27,26,2023,December
+PART-00810,Bakiman Budiman,Manufaktur,40,70,99,Tidak Lulus,60,2024-07-10,2024-07-15,6,2024,July
+PART-00811,Lanjar Usada,Manufaktur,40,73,86,Tidak Lulus,50,2024-07-14,2024-07-19,6,2024,July
+PART-00812,Oskar Uyainah,Pertanian,80,83,87,Lulus,93,2025-04-21,2025-05-01,11,2025,April
+PART-00813,Violet Safitri,Konstruksi,200,72,53,Tidak Lulus,56,2025-05-28,2025-06-22,26,2025,May
+PART-00814,Perkasa Puspita,Konstruksi,160,85,54,Tidak Lulus,68,2023-11-26,2023-12-16,21,2023,November
+PART-00815,"Dinda Irawan, S.Farm",Konstruksi,120,86,76,Lulus,87,2025-09-23,2025-10-08,16,2025,September
+PART-00816,"Dt. Caraka Prabowo, S.I.Kom",Konstruksi,200,97,98,Lulus,95,2025-05-05,2025-05-30,26,2025,May
+PART-00817,Gasti Waskita,Konstruksi,120,90,66,Tidak Lulus,62,2024-04-06,2024-04-21,16,2024,April
+PART-00818,Sadina Prakasa,Pariwisata,160,82,56,Tidak Lulus,67,2024-04-27,2024-05-17,21,2024,April
+PART-00819,Ir. Gawati Gunarto,Manufaktur,200,91,80,Lulus,78,2025-06-10,2025-07-05,26,2025,June
+PART-00820,"Alika Saragih, S.E.I",Pariwisata,120,77,71,Tidak Lulus,73,2024-12-21,2025-01-05,16,2024,December
+PART-00821,"T. Cakrabirawa Hidayat, S.Farm",Desain Grafis,80,90,89,Lulus,76,2024-07-10,2024-07-20,11,2024,July
+PART-00822,Hani Maheswara,Desain Grafis,120,75,52,Tidak Lulus,74,2023-12-20,2024-01-04,16,2023,December
+PART-00823,Farhunnisa Habibi,Desain Grafis,40,93,77,Lulus,83,2024-06-26,2024-07-01,6,2024,June
+PART-00824,Ika Puspasari,Kesehatan,120,77,67,Tidak Lulus,74,2024-08-10,2024-08-25,16,2024,August
+PART-00825,Anastasia Sirait,Pariwisata,80,74,67,Tidak Lulus,51,2024-02-03,2024-02-13,11,2024,February
+PART-00826,Jais Tarihoran,Kesehatan,200,80,47,Tidak Lulus,73,2025-06-18,2025-07-13,26,2025,June
+PART-00827,"Ir. Drajat Samosir, S.I.Kom",Pertanian,40,85,74,Lulus,85,2025-08-16,2025-08-21,6,2025,August
+PART-00828,Kania Prastuti,Pariwisata,160,95,98,Lulus,81,2024-04-29,2024-05-19,21,2024,April
+PART-00829,Paiman Gunarto,Pariwisata,120,93,50,Tidak Lulus,67,2025-04-06,2025-04-21,16,2025,April
+PART-00830,"KH. Daruna Habibi, S.Pt",Kesehatan,240,80,80,Lulus,94,2024-08-18,2024-09-17,31,2024,August
+PART-00831,"Wawan Maheswara, S.Kom",Pertanian,120,72,46,Tidak Lulus,66,2024-10-15,2024-10-30,16,2024,October
+PART-00832,Galih Wasita,Konstruksi,160,87,52,Tidak Lulus,60,2024-04-17,2024-05-07,21,2024,April
+PART-00833,Enteng Rajata,Konstruksi,160,82,46,Tidak Lulus,52,2025-10-09,2025-10-29,21,2025,October
+PART-00834,Ira Winarno,Pariwisata,40,84,81,Lulus,91,2024-05-18,2024-05-23,6,2024,May
+PART-00835,dr. Nalar Kuswoyo,Pertanian,240,81,88,Lulus,78,2024-05-12,2024-06-11,31,2024,May
+PART-00836,"Kartika Anggraini, M.TI.",Konstruksi,120,89,48,Tidak Lulus,74,2024-03-25,2024-04-09,16,2024,March
+PART-00837,Harsaya Wijayanti,Manufaktur,120,77,81,Tidak Lulus,65,2025-10-15,2025-10-30,16,2025,October
+PART-00838,Jelita Simbolon,Teknologi Informasi,200,87,87,Lulus,84,2025-02-04,2025-03-01,26,2025,February
+PART-00839,Dr. Putri Anggriawan,Tataboga,80,93,45,Tidak Lulus,73,2025-05-07,2025-05-17,11,2025,May
+PART-00840,Umar Saefullah,Manufaktur,120,90,93,Lulus,85,2024-08-20,2024-09-04,16,2024,August
+PART-00841,dr. Jamil Wastuti,Tataboga,240,88,66,Tidak Lulus,62,2024-11-29,2024-12-29,31,2024,November
+PART-00842,Prakosa Sinaga,Pariwisata,240,89,55,Tidak Lulus,57,2025-07-19,2025-08-18,31,2025,July
+PART-00843,Balapati Novitasari,Teknologi Informasi,80,84,98,Lulus,99,2025-03-09,2025-03-19,11,2025,March
+PART-00844,"Dr. Gina Handayani, S.Sos",Pariwisata,120,85,54,Tidak Lulus,69,2025-06-06,2025-06-21,16,2025,June
+PART-00845,Hilda Yulianti,Pariwisata,200,81,95,Lulus,89,2024-05-14,2024-06-08,26,2024,May
+PART-00846,"Ir. Talia Sinaga, S.Farm",Manufaktur,160,99,49,Tidak Lulus,67,2024-06-18,2024-07-08,21,2024,June
+PART-00847,"Hj. Sari Uyainah, S.E.I",Pariwisata,80,72,95,Tidak Lulus,53,2025-08-09,2025-08-19,11,2025,August
+PART-00848,Ciaobella Puspita,Manufaktur,120,70,96,Tidak Lulus,55,2025-04-20,2025-05-05,16,2025,April
+PART-00849,Drs. Jane Wahyudin,Teknologi Informasi,40,97,80,Lulus,88,2024-12-29,2025-01-03,6,2024,December
+PART-00850,Kamal Fujiati,Konstruksi,160,96,46,Tidak Lulus,63,2024-06-27,2024-07-17,21,2024,June
+PART-00851,Balidin Jailani,Konstruksi,40,89,94,Lulus,90,2024-03-23,2024-03-28,6,2024,March
+PART-00852,R.A. Tantri Wulandari,Kesehatan,200,86,66,Tidak Lulus,63,2025-02-26,2025-03-23,26,2025,February
+PART-00853,Cut Endah Lazuardi,Desain Grafis,120,92,97,Lulus,89,2025-09-09,2025-09-24,16,2025,September
+PART-00854,"Dt. Yono Hastuti, S.Ked",Teknologi Informasi,240,71,83,Tidak Lulus,52,2025-02-03,2025-03-05,31,2025,February
+PART-00855,"drg. Pardi Prasasta, M.Farm",Teknologi Informasi,80,87,73,Lulus,82,2025-08-23,2025-09-02,11,2025,August
+PART-00856,"Fathonah Dongoran, M.Ak",Manufaktur,40,96,74,Lulus,89,2024-10-22,2024-10-27,6,2024,October
+PART-00857,Kartika Prakasa,Konstruksi,160,84,67,Tidak Lulus,72,2025-06-23,2025-07-13,21,2025,June
+PART-00858,drg. Eli Utama,Pertanian,240,94,91,Lulus,94,2024-11-17,2024-12-17,31,2024,November
+PART-00859,drg. Ami Palastri,Teknologi Informasi,160,96,45,Tidak Lulus,66,2024-01-04,2024-01-24,21,2024,January
+PART-00860,Najwa Maryati,Desain Grafis,120,91,84,Lulus,83,2025-10-28,2025-11-12,16,2025,October
+PART-00861,Jatmiko Napitupulu,Pariwisata,80,82,61,Tidak Lulus,65,2025-10-15,2025-10-25,11,2025,October
+PART-00862,Yuni Tamba,Pariwisata,240,93,100,Lulus,78,2024-07-18,2024-08-17,31,2024,July
+PART-00863,Dr. Cemplunk Rajata,Pariwisata,80,97,97,Lulus,88,2025-08-01,2025-08-11,11,2025,August
+PART-00864,Pandu Yulianti,Tataboga,80,87,97,Lulus,89,2024-12-12,2024-12-22,11,2024,December
+PART-00865,"dr. Raina Utami, S.E.",Pariwisata,240,95,92,Lulus,100,2024-12-31,2025-01-30,31,2024,December
+PART-00866,Hesti Budiyanto,Pariwisata,40,99,51,Tidak Lulus,61,2025-09-19,2025-09-24,6,2025,September
+PART-00867,Drs. Gada Mandasari,Konstruksi,240,73,59,Tidak Lulus,60,2025-02-15,2025-03-17,31,2025,February
+PART-00868,Lili Winarno,Tataboga,40,77,57,Tidak Lulus,58,2024-02-12,2024-02-17,6,2024,February
+PART-00869,"T. Dagel Nasyidah, S.Pd",Tataboga,40,74,52,Tidak Lulus,62,2024-06-22,2024-06-27,6,2024,June
+PART-00870,Paulin Laksita,Teknologi Informasi,200,96,65,Tidak Lulus,53,2023-11-22,2023-12-17,26,2023,November
+PART-00871,"Dr. Zulfa Rajata, M.TI.",Kesehatan,240,73,69,Tidak Lulus,72,2023-11-24,2023-12-24,31,2023,November
+PART-00872,Farah Prasetyo,Pertanian,160,74,68,Tidak Lulus,53,2024-06-07,2024-06-27,21,2024,June
+PART-00873,"Nabila Simanjuntak, M.Kom.",Tataboga,200,78,78,Tidak Lulus,72,2024-03-16,2024-04-10,26,2024,March
+PART-00874,Paiman Firmansyah,Desain Grafis,160,84,91,Lulus,77,2024-01-21,2024-02-10,21,2024,January
+PART-00875,Kurnia Sihombing,Konstruksi,120,82,89,Lulus,76,2023-12-05,2023-12-20,16,2023,December
+PART-00876,"Dr. Wulan Hidayanto, M.Kom.",Pertanian,200,73,56,Tidak Lulus,68,2025-10-01,2025-10-26,26,2025,October
+PART-00877,Ir. Sakti Lazuardi,Konstruksi,160,100,94,Lulus,94,2024-05-04,2024-05-24,21,2024,May
+PART-00878,Agus Andriani,Pertanian,200,70,95,Tidak Lulus,66,2025-01-20,2025-02-14,26,2025,January
+PART-00879,Wakiman Kuswoyo,Pariwisata,160,90,73,Lulus,99,2025-06-16,2025-07-06,21,2025,June
+PART-00880,Putri Hidayat,Manufaktur,40,89,75,Lulus,89,2025-04-29,2025-05-04,6,2025,April
+PART-00881,Galih Padmasari,Teknologi Informasi,80,85,95,Lulus,91,2024-02-28,2024-03-09,11,2024,February
+PART-00882,Vanya Kuswoyo,Kesehatan,120,82,50,Tidak Lulus,70,2025-03-19,2025-04-03,16,2025,March
+PART-00883,"Drs. Shania Samosir, M.Pd",Manufaktur,80,70,58,Tidak Lulus,61,2024-06-05,2024-06-15,11,2024,June
+PART-00884,Hj. Syahrini Saragih,Tataboga,40,81,64,Tidak Lulus,63,2025-05-29,2025-06-03,6,2025,May
+PART-00885,Cawuk Rajasa,Pariwisata,240,83,60,Tidak Lulus,51,2025-07-23,2025-08-22,31,2025,July
+PART-00886,"Hj. Malika Hidayat, M.M.",Konstruksi,160,91,73,Lulus,82,2024-02-20,2024-03-11,21,2024,February
+PART-00887,Ir. Lalita Prakasa,Desain Grafis,120,97,92,Lulus,99,2025-05-06,2025-05-21,16,2025,May
+PART-00888,Drs. Victoria Wibisono,Pariwisata,200,79,76,Tidak Lulus,59,2023-12-15,2024-01-09,26,2023,December
+PART-00889,"Laswi Gunawan, M.M.",Manufaktur,40,84,83,Lulus,96,2025-06-11,2025-06-16,6,2025,June
+PART-00890,"Drs. Aurora Suwarno, S.Kom",Pertanian,240,75,64,Tidak Lulus,56,2024-12-19,2025-01-18,31,2024,December
+PART-00891,"Joko Sirait, M.M.",Manufaktur,200,74,47,Tidak Lulus,59,2024-04-29,2024-05-24,26,2024,April
+PART-00892,Dartono Sihombing,Tataboga,240,83,68,Tidak Lulus,51,2025-02-26,2025-03-28,31,2025,February
+PART-00893,Tira Farida,Pertanian,240,89,45,Tidak Lulus,61,2024-11-07,2024-12-07,31,2024,November
+PART-00894,Dr. Laras Pangestu,Tataboga,80,93,88,Lulus,99,2025-04-27,2025-05-07,11,2025,April
+PART-00895,"Padmi Palastri, S.E.",Manufaktur,80,74,83,Tidak Lulus,55,2024-05-13,2024-05-23,11,2024,May
+PART-00896,Zizi Adriansyah,Konstruksi,80,75,75,Tidak Lulus,71,2025-05-17,2025-05-27,11,2025,May
+PART-00897,Drs. Lutfan Budiyanto,Teknologi Informasi,160,79,80,Tidak Lulus,61,2024-07-23,2024-08-12,21,2024,July
+PART-00898,Oni Agustina,Manufaktur,40,98,61,Tidak Lulus,50,2024-05-13,2024-05-18,6,2024,May
+PART-00899,Laswi Lestari,Manufaktur,80,83,46,Tidak Lulus,59,2024-12-31,2025-01-10,11,2024,December
+PART-00900,Karya Sirait,Pariwisata,240,95,62,Tidak Lulus,52,2024-10-18,2024-11-17,31,2024,October
+PART-00901,Citra Sitorus,Manufaktur,200,85,83,Lulus,89,2024-07-17,2024-08-11,26,2024,July
+PART-00902,Kayla Zulaika,Teknologi Informasi,240,93,65,Tidak Lulus,54,2024-12-18,2025-01-17,31,2024,December
+PART-00903,Rafi Zulaika,Desain Grafis,200,83,47,Tidak Lulus,68,2025-02-22,2025-03-19,26,2025,February
+PART-00904,Indra Laksita,Teknologi Informasi,80,79,88,Tidak Lulus,66,2024-06-01,2024-06-11,11,2024,June
+PART-00905,"H. Virman Gunarto, S.Gz",Kesehatan,240,94,92,Lulus,81,2024-09-15,2024-10-15,31,2024,September
+PART-00906,Bakiman Ardianto,Desain Grafis,120,82,47,Tidak Lulus,53,2024-10-18,2024-11-02,16,2024,October
+PART-00907,Dina Utami,Pertanian,40,98,75,Lulus,92,2025-06-12,2025-06-17,6,2025,June
+PART-00908,Balidin Nasyiah,Manufaktur,240,75,59,Tidak Lulus,53,2023-12-26,2024-01-25,31,2023,December
+PART-00909,Drs. Tari Astuti,Teknologi Informasi,240,97,46,Tidak Lulus,54,2024-08-12,2024-09-11,31,2024,August
+PART-00910,Najwa Tampubolon,Konstruksi,120,95,49,Tidak Lulus,63,2023-11-19,2023-12-04,16,2023,November
+PART-00911,Hartaka Yuniar,Kesehatan,240,94,75,Lulus,76,2024-10-13,2024-11-12,31,2024,October
+PART-00912,Alika Saragih,Konstruksi,120,78,84,Tidak Lulus,57,2024-11-13,2024-11-28,16,2024,November
+PART-00913,R. Nadine Tamba,Tataboga,160,85,98,Lulus,81,2023-11-12,2023-12-02,21,2023,November
+PART-00914,"Drs. Salsabila Halimah, S.Gz",Kesehatan,40,93,54,Tidak Lulus,64,2024-03-28,2024-04-02,6,2024,March
+PART-00915,Opung Putra,Teknologi Informasi,200,94,49,Tidak Lulus,53,2024-12-08,2025-01-02,26,2024,December
+PART-00916,"Puti Eva Sirait, M.Ak",Kesehatan,240,97,61,Tidak Lulus,73,2024-02-08,2024-03-09,31,2024,February
+PART-00917,Dinda Najmudin,Pariwisata,40,82,65,Tidak Lulus,72,2024-05-09,2024-05-14,6,2024,May
+PART-00918,Yunita Puspita,Desain Grafis,160,99,83,Lulus,85,2025-10-19,2025-11-08,21,2025,October
+PART-00919,Hj. Cindy Dongoran,Pariwisata,120,77,49,Tidak Lulus,59,2024-02-24,2024-03-10,16,2024,February
+PART-00920,"drg. Clara Putra, S.Sos",Tataboga,240,79,90,Tidak Lulus,53,2025-07-16,2025-08-15,31,2025,July
+PART-00921,Cemeti Yulianti,Pariwisata,40,79,94,Tidak Lulus,64,2024-12-15,2024-12-20,6,2024,December
+PART-00922,dr. Genta Lestari,Desain Grafis,240,100,46,Tidak Lulus,71,2025-06-24,2025-07-24,31,2025,June
+PART-00923,Candra Saefullah,Teknologi Informasi,200,98,49,Tidak Lulus,66,2025-04-30,2025-05-25,26,2025,April
+PART-00924,Daliman Mansur,Pertanian,40,88,97,Lulus,85,2024-02-22,2024-02-27,6,2024,February
+PART-00925,Heryanto Mustofa,Konstruksi,80,85,88,Lulus,87,2024-09-12,2024-09-22,11,2024,September
+PART-00926,Hesti Puspasari,Desain Grafis,80,80,70,Lulus,96,2025-10-25,2025-11-04,11,2025,October
+PART-00927,Jindra Santoso,Pariwisata,240,74,51,Tidak Lulus,68,2024-07-14,2024-08-13,31,2024,July
+PART-00928,Puji Purnawati,Pertanian,160,77,81,Tidak Lulus,62,2024-06-15,2024-07-05,21,2024,June
+PART-00929,Sakti Yuniar,Teknologi Informasi,80,85,48,Tidak Lulus,51,2025-03-29,2025-04-08,11,2025,March
+PART-00930,Damu Natsir,Tataboga,120,82,66,Tidak Lulus,64,2023-11-27,2023-12-12,16,2023,November
+PART-00931,Ir. Jessica Utami,Desain Grafis,80,90,63,Tidak Lulus,74,2024-01-12,2024-01-22,11,2024,January
+PART-00932,Drs. Nabila Budiman,Manufaktur,80,80,62,Tidak Lulus,70,2024-03-13,2024-03-23,11,2024,March
+PART-00933,Sutan Saiful Rahmawati,Pertanian,40,75,55,Tidak Lulus,59,2024-04-13,2024-04-18,6,2024,April
+PART-00934,Saka Nasyidah,Pertanian,80,85,81,Lulus,90,2024-09-05,2024-09-15,11,2024,September
+PART-00935,Niyaga Kurniawan,Desain Grafis,40,85,85,Lulus,76,2025-05-03,2025-05-08,6,2025,May
+PART-00936,"Elma Habibi, M.M.",Teknologi Informasi,200,71,99,Tidak Lulus,56,2024-03-15,2024-04-09,26,2024,March
+PART-00937,"Eluh Mardhiyah, S.T.",Desain Grafis,240,81,56,Tidak Lulus,67,2025-10-10,2025-11-09,31,2025,October
+PART-00938,"Dt. Lega Budiyanto, S.IP",Pertanian,80,76,57,Tidak Lulus,70,2025-05-09,2025-05-19,11,2025,May
+PART-00939,"Ani Tarihoran, S.E.I",Konstruksi,40,76,47,Tidak Lulus,55,2025-08-02,2025-08-07,6,2025,August
+PART-00940,"Cut Mutia Tamba, S.E.I",Manufaktur,80,95,100,Lulus,78,2025-08-06,2025-08-16,11,2025,August
+PART-00941,Raharja Irawan,Kesehatan,200,91,84,Lulus,98,2024-03-25,2024-04-19,26,2024,March
+PART-00942,"Najwa Siregar, S.Kom",Konstruksi,80,100,85,Lulus,99,2025-01-11,2025-01-21,11,2025,January
+PART-00943,"dr. Ratih Kurniawan, S.IP",Konstruksi,80,99,62,Tidak Lulus,58,2024-10-15,2024-10-25,11,2024,October
+PART-00944,"Puti Raisa Maulana, S.IP",Manufaktur,80,80,92,Lulus,77,2025-06-29,2025-07-09,11,2025,June
+PART-00945,Rahmi Gunawan,Manufaktur,120,83,63,Tidak Lulus,71,2024-02-01,2024-02-16,16,2024,February
+PART-00946,"dr. Hana Usamah, S.Ked",Konstruksi,160,93,77,Lulus,87,2025-10-02,2025-10-22,21,2025,October
+PART-00947,"R.M. Gaman Kusmawati, S.Sos",Konstruksi,160,87,98,Lulus,94,2024-05-20,2024-06-09,21,2024,May
+PART-00948,Ian Januar,Pertanian,80,74,74,Tidak Lulus,57,2025-02-14,2025-02-24,11,2025,February
+PART-00949,Latika Wibowo,Tataboga,200,71,55,Tidak Lulus,70,2024-05-31,2024-06-25,26,2024,May
+PART-00950,Maras Andriani,Kesehatan,240,81,67,Tidak Lulus,70,2025-08-03,2025-09-02,31,2025,August
+PART-00951,Cut Kiandra Astuti,Konstruksi,200,91,79,Lulus,83,2023-12-17,2024-01-11,26,2023,December
+PART-00952,Gatra Budiman,Manufaktur,160,83,91,Lulus,98,2025-04-05,2025-04-25,21,2025,April
+PART-00953,Tgk. Galur Mahendra,Pertanian,120,70,47,Tidak Lulus,66,2025-05-29,2025-06-13,16,2025,May
+PART-00954,Harsana Budiman,Pariwisata,240,91,98,Lulus,93,2024-05-14,2024-06-13,31,2024,May
+PART-00955,"Argono Prasasta, S.H.",Tataboga,200,80,54,Tidak Lulus,69,2025-07-27,2025-08-21,26,2025,July
+PART-00956,Cengkir Palastri,Tataboga,200,83,99,Lulus,77,2023-12-01,2023-12-26,26,2023,December
+PART-00957,Estiono Anggriawan,Pertanian,200,74,62,Tidak Lulus,70,2024-05-23,2024-06-17,26,2024,May
+PART-00958,Drs. Mariadi Suryono,Pertanian,40,82,45,Tidak Lulus,54,2024-10-26,2024-10-31,6,2024,October
+PART-00959,Kayla Budiyanto,Teknologi Informasi,80,90,69,Tidak Lulus,52,2025-08-13,2025-08-23,11,2025,August
+PART-00960,Bella Nainggolan,Konstruksi,80,74,90,Tidak Lulus,63,2025-04-11,2025-04-21,11,2025,April
+PART-00961,"drg. Genta Farida, M.Ak",Desain Grafis,160,89,93,Lulus,94,2024-04-20,2024-05-10,21,2024,April
+PART-00962,Mila Wacana,Pertanian,160,85,49,Tidak Lulus,53,2024-03-08,2024-03-28,21,2024,March
+PART-00963,Diana Hutagalung,Tataboga,240,92,97,Lulus,92,2025-09-01,2025-10-01,31,2025,September
+PART-00964,drg. Balangga Prayoga,Tataboga,80,87,84,Lulus,95,2024-06-18,2024-06-28,11,2024,June
+PART-00965,R.A. Rahayu Laksmiwati,Desain Grafis,240,74,90,Tidak Lulus,53,2025-10-01,2025-10-31,31,2025,October
+PART-00966,Wahyu Hastuti,Pertanian,120,78,93,Tidak Lulus,58,2024-08-18,2024-09-02,16,2024,August
+PART-00967,"Drs. Nyana Prasasta, M.Farm",Pariwisata,240,78,76,Tidak Lulus,70,2025-07-15,2025-08-14,31,2025,July
+PART-00968,Adikara Andriani,Tataboga,80,73,54,Tidak Lulus,54,2025-07-30,2025-08-09,11,2025,July
+PART-00969,Zaenab Mahendra,Teknologi Informasi,240,96,99,Lulus,88,2024-01-26,2024-02-25,31,2024,January
+PART-00970,Viktor Pradipta,Desain Grafis,240,96,45,Tidak Lulus,73,2025-05-01,2025-05-31,31,2025,May
+PART-00971,Mulyanto Nugroho,Teknologi Informasi,160,93,52,Tidak Lulus,59,2025-10-02,2025-10-22,21,2025,October
+PART-00972,Clara Adriansyah,Pertanian,40,94,92,Lulus,83,2024-08-25,2024-08-30,6,2024,August
+PART-00973,Daniswara Hutasoit,Manufaktur,160,97,73,Lulus,80,2024-10-26,2024-11-15,21,2024,October
+PART-00974,Lintang Astuti,Teknologi Informasi,160,82,77,Lulus,90,2025-04-29,2025-05-19,21,2025,April
+PART-00975,Cahyanto Sitorus,Desain Grafis,240,73,90,Tidak Lulus,54,2024-01-23,2024-02-22,31,2024,January
+PART-00976,"Kemba Rahayu, S.Farm",Kesehatan,240,80,91,Lulus,78,2024-10-12,2024-11-11,31,2024,October
+PART-00977,"Drs. Tantri Farida, M.Ak",Pariwisata,120,79,80,Tidak Lulus,66,2023-11-21,2023-12-06,16,2023,November
+PART-00978,Jail Widiastuti,Kesehatan,200,88,70,Lulus,96,2025-01-07,2025-02-01,26,2025,January
+PART-00979,Puti Yani Rahimah,Kesehatan,80,72,87,Tidak Lulus,64,2025-08-11,2025-08-21,11,2025,August
+PART-00980,Uli Winarno,Manufaktur,160,80,98,Lulus,83,2024-07-13,2024-08-02,21,2024,July
+PART-00981,Zalindra Prasasta,Tataboga,120,89,64,Tidak Lulus,53,2024-01-29,2024-02-13,16,2024,January
+PART-00982,Drs. Harsana Melani,Manufaktur,80,80,50,Tidak Lulus,61,2025-03-12,2025-03-22,11,2025,March
+PART-00983,"Ega Zulkarnain, S.H.",Kesehatan,80,91,67,Tidak Lulus,50,2025-01-07,2025-01-17,11,2025,January
+PART-00984,"Kani Handayani, S.Farm",Pariwisata,160,90,72,Lulus,89,2024-11-04,2024-11-24,21,2024,November
+PART-00985,R. Usyi Permadi,Pertanian,80,81,59,Tidak Lulus,69,2025-05-19,2025-05-29,11,2025,May
+PART-00986,Rahayu Usamah,Pariwisata,40,81,55,Tidak Lulus,54,2024-09-23,2024-09-28,6,2024,September
+PART-00987,"Dr. Atma Saefullah, M.Farm",Manufaktur,120,100,54,Tidak Lulus,72,2024-11-10,2024-11-25,16,2024,November
+PART-00988,Ir. Jarwadi Saputra,Desain Grafis,80,100,85,Lulus,81,2024-11-18,2024-11-28,11,2024,November
+PART-00989,Eko Kusmawati,Teknologi Informasi,160,74,82,Tidak Lulus,56,2024-01-25,2024-02-14,21,2024,January
+PART-00990,Sarah Tampubolon,Pertanian,200,97,77,Lulus,80,2025-08-02,2025-08-27,26,2025,August
+PART-00991,Vera Simbolon,Teknologi Informasi,120,81,84,Lulus,100,2024-12-05,2024-12-20,16,2024,December
+PART-00992,"R. Kamila Situmorang, S.Farm",Tataboga,160,76,55,Tidak Lulus,55,2025-09-23,2025-10-13,21,2025,September
+PART-00993,Drs. Mumpuni Napitupulu,Tataboga,40,100,47,Tidak Lulus,68,2025-10-14,2025-10-19,6,2025,October
+PART-00994,Malika Rajasa,Kesehatan,80,70,64,Tidak Lulus,59,2025-05-18,2025-05-28,11,2025,May
+PART-00995,T. Nasrullah Firgantoro,Teknologi Informasi,40,73,88,Tidak Lulus,58,2024-12-03,2024-12-08,6,2024,December
+PART-00996,"Najib Yuniar, S.I.Kom",Manufaktur,120,85,58,Tidak Lulus,55,2025-04-07,2025-04-22,16,2025,April
+PART-00997,Ira Sitorus,Kesehatan,80,77,51,Tidak Lulus,71,2023-12-22,2024-01-01,11,2023,December
+PART-00998,Rendy Prasetya,Pariwisata,120,79,59,Tidak Lulus,65,2024-08-01,2024-08-16,16,2024,August
+PART-00999,Agus Oktaviani,Kesehatan,40,97,84,Lulus,77,2025-01-05,2025-01-10,6,2025,January
+PART-01000,Lala Adriansyah,Desain Grafis,120,88,79,Lulus,77,2024-05-30,2024-06-14,16,2024,May
