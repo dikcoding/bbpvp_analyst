@@ -118,5 +118,4 @@ Menyajikan hasil analisis dan temuan kunci dalam bentuk *dashboard* yang mudah d
     * Rekomendasi strategis untuk perbaikan program pelatihan.
 
 ### Tools
-* **Tableau**: (Untuk *dashboard* interaktif utama)
 * **Python**: `Matplotlib`, `Seaborn` (Untuk visualisasi pendukung selama proses analisis)
